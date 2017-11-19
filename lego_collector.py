@@ -1,5 +1,4 @@
 import re
-import glob
 import csv
 import urllib.request
 import lxml.html as lh
@@ -81,8 +80,6 @@ def parse_price_guide(pg_table):
 
     return monthly_data
 
-
-sample_files = glob.glob('./sample pages/*.html')
 
 with open('sets_2012_info.csv', 'w', newline='') as info_csv, \
      open('sets_2012_prices.csv', 'w', newline='') as prices_csv:
