@@ -1,0 +1,1265 @@
+Set number;Name;Year;Month;Total Lots;Total Qty;Min Price;Avg Price;Qty Avg Price;Max Price
+3061;City Park Cafe;2017;November;1;1;40.80;40.80;40.80;40.80
+3061;City Park Cafe;2017;October;1;1;45.18;45.18;45.18;45.18
+3061;City Park Cafe;2017;September;1;1;41.74;41.74;41.74;41.74
+3061;City Park Cafe;2017;August;2;3;36.00;36.50;36.67;37.00
+3061;City Park Cafe;2017;June;1;1;45.00;45.00;45.00;45.00
+3063;Heartlake Flying Club;2017;November;1;1;14.99;14.99;14.99;14.99
+3063;Heartlake Flying Club;2017;August;2;2;22.50;25.23;25.23;27.96
+3065;Olivia's Tree House;2017;November;2;2;34.99;37.23;37.23;39.47
+3065;Olivia's Tree House;2017;August;1;1;24.48;24.48;24.48;24.48
+3065;Olivia's Tree House;2017;June;2;4;29.99;32.50;33.75;35.00
+3065;Olivia's Tree House;2017;May;1;1;35.00;35.00;35.00;35.00
+3183;Stephanie's Cool Convertible;2017;November;2;5;24.95;24.95;24.95;24.95
+3183;Stephanie's Cool Convertible;2017;October;2;3;25.81;26.90;26.54;28.00
+3183;Stephanie's Cool Convertible;2017;July;3;33;16.90;21.30;17.45;25.00
+3183;Stephanie's Cool Convertible;2017;June;4;5;21.00;23.68;24.08;25.69
+3184;Adventure Camper;2017;November;2;2;45.00;45.83;45.83;46.66
+3184;Adventure Camper;2017;October;2;2;50.00;55.50;55.50;61.01
+3184;Adventure Camper;2017;July;3;4;45.60;48.53;48.90;50.00
+3184;Adventure Camper;2017;June;2;2;38.00;40.60;40.60;43.21
+3184;Adventure Camper;2017;May;4;4;44.44;48.59;48.59;54.50
+3185;Summer Riding Camp;2017;November;5;7;149.90;174.06;169.07;200.00
+3185;Summer Riding Camp;2017;October;1;1;149.90;149.90;149.90;149.90
+3185;Summer Riding Camp;2017;September;3;3;128.56;152.24;152.24;184.00
+3185;Summer Riding Camp;2017;July;3;6;125.79;152.93;150.96;183.99
+3186;Emma's Horse Trailer;2017;September;1;1;53.67;53.67;53.67;53.67
+3186;Emma's Horse Trailer;2017;August;2;2;45.00;48.75;48.75;52.50
+3186;Emma's Horse Trailer;2017;June;1;1;56.69;56.69;56.69;56.69
+3187;Butterfly Beauty Shop;2017;September;1;1;63.99;63.99;63.99;63.99
+3187;Butterfly Beauty Shop;2017;August;1;1;49.73;49.73;49.73;49.73
+3187;Butterfly Beauty Shop;2017;June;1;1;50.00;50.00;50.00;50.00
+3188;Heartlake Vet;2017;November;1;2;99.15;99.15;99.15;99.15
+3188;Heartlake Vet;2017;October;2;2;105.00;110.57;110.57;116.14
+3188;Heartlake Vet;2017;August;1;1;84.20;84.20;84.20;84.20
+3188;Heartlake Vet;2017;June;1;1;106.39;106.39;106.39;106.39
+3188;Heartlake Vet;2017;May;3;7;90.00;94.76;94.36;98.88
+3189;Heartlake Stables;2017;July;1;1;79.00;79.00;79.00;79.00
+3315;Olivia's House;2017;November;3;3;92.00;98.95;98.95;104.86
+3315;Olivia's House;2017;October;7;10;85.50;94.52;94.36;105.03
+3315;Olivia's House;2017;September;2;2;93.13;93.39;93.39;93.66
+3315;Olivia's House;2017;August;6;8;78.76;94.58;92.03;116.34
+3315;Olivia's House;2017;July;4;4;79.00;88.04;88.04;95.00
+3315;Olivia's House;2017;June;6;7;78.49;86.43;87.15;91.52
+3315;Olivia's House;2017;May;2;2;85.00;87.50;87.50;89.99
+3316;Friends Advent Calendar;2017;October;1;1;40.00;40.00;40.00;40.00
+3316;Friends Advent Calendar;2017;September;2;4;21.12;23.06;22.09;24.99
+3316;Friends Advent Calendar;2017;June;2;2;30.86;33.57;33.57;36.28
+3316;Friends Advent Calendar;2017;May;1;10;18.83;18.83;18.83;18.83
+3817;The Flying Dutchman;2017;November;1;2;37.00;37.00;37.00;37.00
+3817;The Flying Dutchman;2017;October;4;4;30.49;37.87;37.87;42.00
+3817;The Flying Dutchman;2017;September;1;1;63.79;63.79;63.79;63.79
+3817;The Flying Dutchman;2017;August;1;4;50.00;50.00;50.00;50.00
+3817;The Flying Dutchman;2017;July;7;8;28.43;38.98;40.35;50.00
+3817;The Flying Dutchman;2017;June;6;7;33.00;40.28;40.53;49.00
+3818;Bikini Bottom Undersea Party;2017;November;3;4;99.22;109.70;112.27;119.99
+3818;Bikini Bottom Undersea Party;2017;October;1;3;110.50;110.50;110.50;110.50
+3818;Bikini Bottom Undersea Party;2017;September;2;2;111.19;117.10;117.10;123.00
+3818;Bikini Bottom Undersea Party;2017;August;1;1;100.06;100.06;100.06;100.06
+3818;Bikini Bottom Undersea Party;2017;July;1;1;90.00;90.00;90.00;90.00
+3818;Bikini Bottom Undersea Party;2017;June;2;2;100.00;105.00;105.00;110.00
+3930;Stephanie's Outdoor Bakery;2017;November;3;4;6.00;7.33;8.00;10.00
+3930;Stephanie's Outdoor Bakery;2017;August;2;4;6.32;7.32;7.82;8.31
+3930;Stephanie's Outdoor Bakery;2017;July;1;1;5.00;5.00;5.00;5.00
+3930;Stephanie's Outdoor Bakery;2017;June;2;11;8.95;10.14;9.16;11.34
+3931;Emma's Splash Pool;2017;August;1;2;11.48;11.48;11.48;11.48
+3932;Andrea's Stage;2017;November;1;2;20.00;20.00;20.00;20.00
+3932;Andrea's Stage;2017;September;1;2;14.95;14.95;14.95;14.95
+3932;Andrea's Stage;2017;July;2;3;14.87;15.43;15.24;15.98
+3933;Olivia's Invention Workshop;2017;October;1;1;21.12;21.12;21.12;21.12
+3933;Olivia's Invention Workshop;2017;August;1;1;29.87;29.87;29.87;29.87
+3933;Olivia's Invention Workshop;2017;July;1;16;18.24;18.24;18.24;18.24
+3934;Mia's Puppy House;2017;August;1;1;21.84;21.84;21.84;21.84
+3935;Stephanie's Pet Patrol;2017;November;1;1;20.00;20.00;20.00;20.00
+3935;Stephanie's Pet Patrol;2017;July;1;2;17.95;17.95;17.95;17.95
+3935;Stephanie's Pet Patrol;2017;June;1;1;15.19;15.19;15.19;15.19
+3936;Emma's Fashion Design Studio;2017;October;1;1;22.29;22.29;22.29;22.29
+3936;Emma's Fashion Design Studio;2017;July;1;1;13.00;13.00;13.00;13.00
+3936;Emma's Fashion Design Studio;2017;June;1;1;18.00;18.00;18.00;18.00
+3937;Olivia's Speedboat;2017;September;1;1;13.00;13.00;13.00;13.00
+3937;Olivia's Speedboat;2017;August;1;1;15.00;15.00;15.00;15.00
+3937;Olivia's Speedboat;2017;July;1;10;18.00;18.00;18.00;18.00
+3937;Olivia's Speedboat;2017;June;1;3;17.50;17.50;17.50;17.50
+3938;Andrea's Bunny House;2017;November;1;1;15.00;15.00;15.00;15.00
+3938;Andrea's Bunny House;2017;August;1;1;15.99;15.99;15.99;15.99
+3938;Andrea's Bunny House;2017;July;2;3;13.80;14.40;14.20;14.99
+3938;Andrea's Bunny House;2017;June;1;1;14.24;14.24;14.24;14.24
+3939;Mia's Bedroom;2017;November;1;2;19.00;19.00;19.00;19.00
+3939;Mia's Bedroom;2017;August;1;1;17.91;17.91;17.91;17.91
+3939;Mia's Bedroom;2017;July;1;2;25.00;25.00;25.00;25.00
+3939;Mia's Bedroom;2017;June;3;5;18.52;21.55;20.66;26.00
+3939;Mia's Bedroom;2017;May;1;1;14.25;14.25;14.25;14.25
+3942;Heartlake Dog Show;2017;September;1;1;56.99;56.99;56.99;56.99
+3942;Heartlake Dog Show;2017;July;1;16;44.90;44.90;44.90;44.90
+3942;Heartlake Dog Show;2017;June;1;1;40.00;40.00;40.00;40.00
+4200;Mining 4x4;2017;November;3;4;12.60;16.08;16.31;18.63
+4200;Mining 4x4;2017;October;1;1;9.88;9.88;9.88;9.88
+4200;Mining 4x4;2017;September;1;1;16.17;16.17;16.17;16.17
+4200;Mining 4x4;2017;August;1;1;14.99;14.99;14.99;14.99
+4200;Mining 4x4;2017;July;1;1;14.50;14.50;14.50;14.50
+4200;Mining 4x4;2017;June;2;2;12.77;13.38;13.38;13.99
+4200;Mining 4x4;2017;May;1;4;16.76;16.76;16.76;16.76
+4201;Loader and Tipper;2017;November;2;2;23.77;30.02;30.02;36.27
+4201;Loader and Tipper;2017;October;3;4;22.28;25.72;24.86;29.00
+4201;Loader and Tipper;2017;September;3;3;27.00;28.26;28.26;29.00
+4201;Loader and Tipper;2017;August;4;6;27.20;31.47;30.44;35.31
+4201;Loader and Tipper;2017;July;1;1;37.60;37.60;37.60;37.60
+4201;Loader and Tipper;2017;June;1;1;28.34;28.34;28.34;28.34
+4202;Mining Truck;2017;November;2;2;48.92;49.94;49.94;50.96
+4202;Mining Truck;2017;October;1;2;36.72;36.72;36.72;36.72
+4202;Mining Truck;2017;September;1;3;50.00;50.00;50.00;50.00
+4202;Mining Truck;2017;August;2;2;42.00;47.48;47.48;52.96
+4202;Mining Truck;2017;July;1;1;51.59;51.59;51.59;51.59
+4202;Mining Truck;2017;May;2;2;43.44;45.18;45.18;46.92
+4203;Excavator Transporter;2017;November;3;6;40.00;47.25;43.62;55.90
+4203;Excavator Transporter;2017;October;3;4;43.76;49.65;48.18;56.31
+4203;Excavator Transporter;2017;September;1;1;40.00;40.00;40.00;40.00
+4203;Excavator Transporter;2017;August;1;1;38.00;38.00;38.00;38.00
+4203;Excavator Transporter;2017;July;1;4;40.00;40.00;40.00;40.00
+4203;Excavator Transporter;2017;May;3;3;19.99;33.00;33.00;40.00
+4204;The Mine;2017;November;3;3;78.36;93.91;93.91;125.00
+4204;The Mine;2017;October;1;5;112.17;112.17;112.17;112.17
+4204;The Mine;2017;September;4;8;84.88;112.32;115.06;128.78
+4204;The Mine;2017;August;2;4;131.49;132.05;132.33;132.62
+4204;The Mine;2017;July;4;5;91.99;100.19;99.75;118.77
+4204;The Mine;2017;June;1;1;108.91;108.91;108.91;108.91
+4204;The Mine;2017;May;3;4;82.98;98.23;101.60;111.71
+4205;Off-Road Command Centre;2017;August;1;1;76.28;76.28;76.28;76.28
+4205;Off-Road Command Centre;2017;July;1;1;72.33;72.33;72.33;72.33
+4205;Off-Road Command Centre;2017;June;2;2;61.91;68.45;68.45;74.99
+4206;Recycling Truck;2017;October;2;3;34.99;35.99;36.32;36.99
+4206;Recycling Truck;2017;September;3;5;34.95;41.56;41.47;47.73
+4206;Recycling Truck;2017;August;4;8;34.95;40.17;38.09;50.78
+4206;Recycling Truck;2017;July;2;5;34.95;34.98;34.99;35.00
+4206;Recycling Truck;2017;June;1;1;35.00;35.00;35.00;35.00
+4206;Recycling Truck;2017;May;2;2;35.15;37.55;37.55;39.95
+4207;City Garage;2017;November;1;1;110.21;110.21;110.21;110.21
+4207;City Garage;2017;October;2;2;119.22;130.53;130.53;141.83
+4207;City Garage;2017;September;1;1;110.00;110.00;110.00;110.00
+4207;City Garage;2017;August;2;2;95.00;115.80;115.80;136.59
+4207;City Garage;2017;July;1;1;131.95;131.95;131.95;131.95
+4207;City Garage;2017;June;3;7;128.50;139.07;138.87;149.97
+4207;City Garage;2017;May;1;1;117.35;117.35;117.35;117.35
+4208;Fire Truck;2017;September;1;1;30.07;30.07;30.07;30.07
+4208;Fire Truck;2017;July;2;4;31.34;34.30;35.78;37.26
+4209;Fire Plane;2017;November;1;1;57.55;57.55;57.55;57.55
+4209;Fire Plane;2017;October;1;1;55.27;55.27;55.27;55.27
+4209;Fire Plane;2017;September;2;2;60.00;60.00;60.00;60.00
+4209;Fire Plane;2017;August;1;1;57.36;57.36;57.36;57.36
+4209;Fire Plane;2017;July;5;6;44.77;56.63;57.52;62.00
+4427;Fire ATV;2017;October;1;1;8.00;8.00;8.00;8.00
+4427;Fire ATV;2017;August;2;2;4.69;6.34;6.34;8.00
+4427;Fire ATV;2017;July;1;2;8.75;8.75;8.75;8.75
+4428;City Advent Calendar;2017;October;3;4;26.01;30.16;31.43;35.23
+4428;City Advent Calendar;2017;August;1;1;19.46;19.46;19.46;19.46
+4428;City Advent Calendar;2017;July;1;1;37.53;37.53;37.53;37.53
+4429;Helicopter Rescue;2017;November;4;4;86.66;95.14;95.14;99.05
+4429;Helicopter Rescue;2017;October;5;7;85.86;106.28;100.45;124.61
+4429;Helicopter Rescue;2017;September;4;5;39.95;81.25;72.99;107.04
+4429;Helicopter Rescue;2017;August;2;2;75.91;96.95;96.95;117.99
+4429;Helicopter Rescue;2017;July;3;3;84.06;95.93;95.93;102.25
+4429;Helicopter Rescue;2017;June;5;6;78.00;88.53;89.44;100.75
+4429;Helicopter Rescue;2017;May;3;4;75.00;76.15;76.61;78.00
+4430;Fire Transporter;2017;October;2;3;87.82;102.67;97.72;117.52
+4430;Fire Transporter;2017;July;1;1;88.95;88.95;88.95;88.95
+4430;Fire Transporter;2017;June;2;2;76.25;87.89;87.89;99.53
+4431;Ambulance;2017;October;2;2;58.54;64.27;64.27;70.00
+4431;Ambulance;2017;September;2;2;57.99;58.86;58.86;59.73
+4431;Ambulance;2017;August;3;3;57.99;58.53;58.53;59.60
+4431;Ambulance;2017;July;5;5;55.98;59.11;59.11;68.00
+4431;Ambulance;2017;June;3;3;54.87;66.65;66.65;80.00
+4431;Ambulance;2017;May;2;2;65.65;66.82;66.82;68.00
+4432;Garbage Truck;2017;November;4;8;35.00;41.25;43.12;49.00
+4432;Garbage Truck;2017;October;3;3;32.08;40.53;40.53;49.50
+4432;Garbage Truck;2017;September;3;3;30.00;38.05;38.05;47.67
+4432;Garbage Truck;2017;August;6;11;44.74;46.59;47.54;50.00
+4432;Garbage Truck;2017;July;4;6;44.75;45.91;45.57;49.00
+4432;Garbage Truck;2017;June;5;5;37.50;43.60;43.60;48.14
+4432;Garbage Truck;2017;May;2;2;42.07;46.30;46.30;50.53
+4433;Dirt Bike Transporter;2017;November;6;6;28.53;33.17;33.17;39.00
+4433;Dirt Bike Transporter;2017;October;3;4;17.59;30.99;34.98;46.98
+4433;Dirt Bike Transporter;2017;September;1;1;29.95;29.95;29.95;29.95
+4433;Dirt Bike Transporter;2017;August;2;2;39.00;50.38;50.38;61.75
+4433;Dirt Bike Transporter;2017;July;4;4;29.16;36.54;36.54;39.00
+4433;Dirt Bike Transporter;2017;June;5;5;29.27;32.64;32.64;35.99
+4434;Dump Truck;2017;November;1;1;38.60;38.60;38.60;38.60
+4434;Dump Truck;2017;October;7;9;29.99;33.67;33.39;41.41
+4434;Dump Truck;2017;August;2;2;26.00;30.38;30.38;34.76
+4434;Dump Truck;2017;July;3;4;29.50;31.25;30.82;34.26
+4434;Dump Truck;2017;June;4;13;25.81;29.32;29.17;36.00
+4435;Car and Caravan;2017;November;2;4;37.05;46.02;41.54;55.00
+4435;Car and Caravan;2017;August;1;1;32.00;32.00;32.00;32.00
+4435;Car and Caravan;2017;July;2;3;44.90;49.94;48.26;54.99
+4435;Car and Caravan;2017;June;1;1;42.50;42.50;42.50;42.50
+4435;Car and Caravan;2017;May;1;1;50.00;50.00;50.00;50.00
+4436;Patrol Car;2017;November;3;3;14.99;17.04;17.04;20.95
+4436;Patrol Car;2017;October;1;1;19.00;19.00;19.00;19.00
+4436;Patrol Car;2017;September;3;13;13.00;15.19;16.00;16.43
+4436;Patrol Car;2017;August;1;1;12.36;12.36;12.36;12.36
+4436;Patrol Car;2017;July;1;1;18.22;18.22;18.22;18.22
+4436;Patrol Car;2017;June;3;3;14.99;16.75;16.75;20.00
+4437;Police Pursuit;2017;November;2;3;15.09;17.54;16.72;19.99
+4437;Police Pursuit;2017;October;2;2;9.88;10.94;10.94;12.00
+4437;Police Pursuit;2017;August;2;5;9.90;12.50;14.06;15.10
+4437;Police Pursuit;2017;July;4;6;5.00;12.81;15.52;20.96
+4437;Police Pursuit;2017;June;5;6;9.42;13.31;13.42;16.78
+4437;Police Pursuit;2017;May;2;2;12.00;12.16;12.16;12.32
+4438;Robbers' Hideout;2017;August;1;1;68.99;68.99;68.99;68.99
+4438;Robbers' Hideout;2017;July;1;1;74.26;74.26;74.26;74.26
+4439;Heavy-Lift Helicopter;2017;November;2;3;46.64;50.82;52.21;54.99
+4439;Heavy-Lift Helicopter;2017;October;2;3;53.08;56.29;55.22;59.50
+4439;Heavy-Lift Helicopter;2017;September;2;2;44.90;46.95;46.95;49.00
+4439;Heavy-Lift Helicopter;2017;August;7;12;47.75;50.56;50.78;58.17
+4439;Heavy-Lift Helicopter;2017;July;3;8;46.36;52.30;56.14;60.55
+4439;Heavy-Lift Helicopter;2017;June;3;3;47.50;52.11;52.11;58.84
+4440;Forest Police Station;2017;October;3;3;94.36;105.12;105.12;116.14
+4440;Forest Police Station;2017;September;1;2;79.99;79.99;79.99;79.99
+4440;Forest Police Station;2017;August;1;1;19.64;19.64;19.64;19.64
+4440;Forest Police Station;2017;June;3;15;60.00;85.39;94.02;99.99
+4440;Forest Police Station;2017;May;1;1;75.00;75.00;75.00;75.00
+4441;Police Dog Van;2017;November;1;1;48.40;48.40;48.40;48.40
+4441;Police Dog Van;2017;August;2;2;52.44;52.71;52.71;52.98
+4441;Police Dog Van;2017;July;2;3;38.40;41.91;43.08;45.41
+4441;Police Dog Van;2017;June;1;1;50.00;50.00;50.00;50.00
+4442;Glider;2017;September;1;1;30.00;30.00;30.00;30.00
+4442;Glider;2017;July;1;1;17.20;17.20;17.20;17.20
+4442;Glider;2017;June;1;1;22.29;22.29;22.29;22.29
+4442;Glider;2016;December;1;1;20.91;20.91;20.91;20.91
+4473;Police Helicopter;2017;September;1;2;32.00;32.00;32.00;32.00
+4526;Batman;2017;November;2;2;25.00;42.50;42.50;59.99
+4526;Batman;2017;October;3;3;22.88;31.36;31.36;39.70
+4526;Batman;2017;June;1;1;41.84;41.84;41.84;41.84
+4527;The Joker;2017;October;4;4;20.00;22.88;22.88;30.00
+4527;The Joker;2017;July;1;1;19.90;19.90;19.90;19.90
+4527;The Joker;2017;June;1;2;22.00;22.00;22.00;22.00
+4528;Green Lantern;2017;October;3;3;19.88;23.48;23.48;29.02
+4529;Iron Man;2017;November;1;1;26.22;26.22;26.22;26.22
+4530;The Hulk;2017;October;3;3;24.33;25.15;25.15;26.12
+4530;The Hulk;2017;August;1;1;24.58;24.58;24.58;24.58
+4530;The Hulk;2017;June;3;5;25.00;27.33;26.40;32.00
+4623;Pink Brick Box;2017;October;1;1;49.62;49.62;49.62;49.62
+4625;Pink Brick Box;2017;November;1;4;30.19;30.19;30.19;30.19
+4625;Pink Brick Box;2017;September;1;1;29.84;29.84;29.84;29.84
+4625;Pink Brick Box;2017;August;2;2;18.00;21.50;21.50;25.00
+4626;Farm Brick Box;2017;September;1;1;29.84;29.84;29.84;29.84
+4626;Farm Brick Box;2017;July;1;1;40.00;40.00;40.00;40.00
+4628;Fun With Bricks;2017;September;1;1;58.49;58.49;58.49;58.49
+4628;Fun With Bricks;2017;August;1;10;35.00;35.00;35.00;35.00
+4629;Build & Play Box;2017;November;1;1;45.00;45.00;45.00;45.00
+4630;Build & Play Box;2017;September;1;1;70.42;70.42;70.42;70.42
+4631;My First Build;2017;November;1;1;27.00;27.00;27.00;27.00
+4631;My First Build;2017;October;1;1;23.59;23.59;23.59;23.59
+4631;My First Build;2017;September;1;1;22.68;22.68;22.68;22.68
+4631;My First Build;2017;August;2;2;15.00;22.21;22.21;29.43
+4631;My First Build;2017;June;1;1;21.19;21.19;21.19;21.19
+4635;Fun With Vehicles;2017;November;1;1;57.42;57.42;57.42;57.42
+4635;Fun With Vehicles;2017;August;1;1;70.36;70.36;70.36;70.36
+4635;Fun With Vehicles;2017;June;1;1;26.32;26.32;26.32;26.32
+4636;Police Building Set;2017;September;1;1;13.99;13.99;13.99;13.99
+4636;Police Building Set;2017;July;1;1;13.95;13.95;13.95;13.95
+4636;Police Building Set;2017;June;1;1;13.95;13.95;13.95;13.95
+4637;Safari Building Set;2017;November;3;9;14.57;16.48;17.11;17.47
+4637;Safari Building Set;2017;September;1;1;17.92;17.92;17.92;17.92
+4637;Safari Building Set;2017;August;2;4;14.17;18.59;18.59;23.00
+4637;Safari Building Set;2017;July;1;1;18.00;18.00;18.00;18.00
+5882;Ambush Attack;2017;November;1;1;34.99;34.99;34.99;34.99
+5882;Ambush Attack;2017;September;1;1;35.00;35.00;35.00;35.00
+5882;Ambush Attack;2017;June;2;2;23.87;27.41;27.41;30.96
+5883;Tower Takedown;2017;October;1;1;50.00;50.00;50.00;50.00
+5883;Tower Takedown;2017;September;1;1;41.68;41.68;41.68;41.68
+5883;Tower Takedown;2017;July;1;5;49.95;49.95;49.95;49.95
+5883;Tower Takedown;2017;June;3;3;11.99;31.47;31.47;46.25
+5883;Tower Takedown;2017;May;1;1;51.00;51.00;51.00;51.00
+5884;Raptor Chase;2017;October;1;1;85.17;85.17;85.17;85.17
+5884;Raptor Chase;2017;July;1;1;45.00;45.00;45.00;45.00
+5884;Raptor Chase;2017;June;4;4;78.00;85.43;85.43;95.68
+5884;Raptor Chase;2017;May;1;1;77.50;77.50;77.50;77.50
+5885;Triceratops Trapper;2017;November;1;1;92.87;92.87;92.87;92.87
+5885;Triceratops Trapper;2017;October;1;1;80.00;80.00;80.00;80.00
+5885;Triceratops Trapper;2017;August;1;1;120.00;120.00;120.00;120.00
+5885;Triceratops Trapper;2017;July;2;2;74.26;99.62;99.62;124.99
+5885;Triceratops Trapper;2017;June;3;3;118.44;124.21;124.21;134.20
+5886;T-Rex Hunter;2017;November;5;9;103.27;110.05;108.89;119.95
+5886;T-Rex Hunter;2017;October;1;1;118.20;118.20;118.20;118.20
+5886;T-Rex Hunter;2017;September;1;1;108.72;108.72;108.72;108.72
+5886;T-Rex Hunter;2017;August;2;2;94.09;112.04;112.04;129.99
+5886;T-Rex Hunter;2017;July;2;2;89.93;99.97;99.97;110.00
+5886;T-Rex Hunter;2017;June;1;1;140.00;140.00;140.00;140.00
+5886;T-Rex Hunter;2017;May;1;1;128.00;128.00;128.00;128.00
+5887;Dino Defense HQ;2017;November;1;2;245.00;245.00;245.00;245.00
+5887;Dino Defense HQ;2017;October;4;4;236.41;243.38;243.38;252.74
+5887;Dino Defense HQ;2017;August;3;3;262.91;263.95;263.95;265.00
+5887;Dino Defense HQ;2017;June;4;4;242.51;274.30;274.30;293.25
+5887;Dino Defense HQ;2017;May;1;1;270.00;270.00;270.00;270.00
+5888;Ocean Interceptor;2017;October;1;1;100.00;100.00;100.00;100.00
+5888;Ocean Interceptor;2017;June;1;1;71.07;71.07;71.07;71.07
+6132;Red;2017;August;1;1;34.15;34.15;34.15;34.15
+6133;Race Day;2017;July;1;3;45.80;45.80;45.80;45.80
+6133;Race Day;2017;June;1;1;40.00;40.00;40.00;40.00
+6143;Racing Team;2017;September;1;1;35.64;35.64;35.64;35.64
+6143;Racing Team;2017;July;1;1;38.37;38.37;38.37;38.37
+6146;Tow Truck;2017;November;2;3;15.29;18.71;17.57;22.13
+6146;Tow Truck;2017;October;1;1;15.48;15.48;15.48;15.48
+6151;Sleeping Beauty's Room;2017;November;1;3;17.83;17.83;17.83;17.83
+6151;Sleeping Beauty's Room;2017;October;1;1;24.81;24.81;24.81;24.81
+6152;Snow White's Cottage;2017;September;1;1;29.82;29.82;29.82;29.82
+6153;Cinderella's Carriage;2017;November;1;1;20.00;20.00;20.00;20.00
+6153;Cinderella's Carriage;2017;September;2;2;24.99;27.99;27.99;30.99
+6154;Cinderella's Castle;2017;November;4;4;62.99;71.81;71.81;79.90
+6154;Cinderella's Castle;2017;October;1;1;75.00;75.00;75.00;75.00
+6154;Cinderella's Castle;2017;September;1;1;71.00;71.00;71.00;71.00
+6154;Cinderella's Castle;2017;August;1;1;68.78;68.78;68.78;68.78
+6156;Photo Safari;2017;August;1;1;94.03;94.03;94.03;94.03
+6157;The Big Zoo;2017;November;1;1;165.00;165.00;165.00;165.00
+6158;Animal Clinic;2017;November;1;2;42.12;42.12;42.12;42.12
+6158;Animal Clinic;2017;October;1;1;50.00;50.00;50.00;50.00
+6169;Fire Chief;2017;October;1;2;10.67;10.67;10.67;10.67
+6169;Fire Chief;2017;July;1;1;10.00;10.00;10.00;10.00
+6171;Gas Station;2017;October;1;2;40.10;40.10;40.10;40.10
+6200;Evo;2017;August;1;1;14.95;14.95;14.95;14.95
+6201;Toxic Reapa;2017;August;1;1;19.54;19.54;19.54;19.54
+6202;Rocka;2017;September;1;1;35.00;35.00;35.00;35.00
+6202;Rocka;2017;August;2;2;26.55;31.92;31.92;37.28
+6203;Black Phantom;2017;November;1;1;78.26;78.26;78.26;78.26
+6203;Black Phantom;2017;June;2;2;54.87;67.44;67.44;80.00
+6217;Surge;2017;October;1;1;27.77;27.77;27.77;27.77
+6221;Nex;2017;October;1;1;11.81;11.81;11.81;11.81
+6221;Nex;2017;July;1;2;11.45;11.45;11.45;11.45
+6222;Core Hunter;2017;October;1;1;33.93;33.93;33.93;33.93
+6222;Core Hunter;2017;August;1;1;35.00;35.00;35.00;35.00
+6223;Bulk;2017;November;1;2;20.89;20.89;20.89;20.89
+6223;Bulk;2017;October;1;1;20.89;20.89;20.89;20.89
+6223;Bulk;2017;July;1;2;14.33;14.33;14.33;14.33
+6223;Bulk;2017;May;2;3;18.92;18.93;18.93;18.95
+6227;Breez;2017;September;1;1;28.00;28.00;28.00;28.00
+6229;XT4;2017;July;1;1;8.55;8.55;8.55;8.55
+6230;Stormer XL;2017;September;1;1;29.95;29.95;29.95;29.95
+6230;Stormer XL;2017;July;1;1;36.25;36.25;36.25;36.25
+6230;Stormer XL;2017;June;1;1;31.31;31.31;31.31;31.31
+6230;Stormer XL;2017;May;2;2;33.46;37.73;37.73;42.00
+6231;Speeda Demon;2017;November;1;1;44.04;44.04;44.04;44.04
+6231;Speeda Demon;2017;October;2;2;42.99;43.67;43.67;44.35
+6231;Speeda Demon;2017;August;2;8;23.55;25.77;24.10;28.00
+6231;Speeda Demon;2017;July;1;6;23.93;23.93;23.93;23.93
+6231;Speeda Demon;2017;May;1;2;29.74;29.74;29.74;29.74
+6282;Stringer;2017;November;1;1;32.03;32.03;32.03;32.03
+6282;Stringer;2017;September;1;1;30.84;30.84;30.84;30.84
+6283;Voltix;2017;August;2;2;17.15;19.95;19.95;22.75
+6283;Voltix;2017;May;1;2;18.92;18.92;18.92;18.92
+6293;Furno;2017;June;1;1;41.44;41.44;41.44;41.44
+6758;Grow Caterpillar Grow!;2017;August;1;1;19.88;19.88;19.88;19.88
+6759;Busy Farm;2017;November;2;2;12.00;13.78;13.78;15.55
+6759;Busy Farm;2017;August;1;1;19.88;19.88;19.88;19.88
+6760;Let's Go! Wroom!;2017;October;1;1;11.77;11.77;11.77;11.77
+6760;Let's Go! Wroom!;2017;August;1;1;19.88;19.88;19.88;19.88
+6784;Creative Sorter;2017;October;1;1;13.15;13.15;13.15;13.15
+6785;Creative Cakes;2017;June;1;1;49.99;49.99;49.99;49.99
+6785;Creative Cakes;2017;May;1;1;48.00;48.00;48.00;48.00
+6857;The Dynamic Duo Funhouse Escape;2017;November;2;2;52.12;56.06;56.06;60.00
+6857;The Dynamic Duo Funhouse Escape;2017;October;5;6;41.29;49.17;48.74;62.39
+6857;The Dynamic Duo Funhouse Escape;2017;September;4;4;53.47;68.97;68.97;94.51
+6857;The Dynamic Duo Funhouse Escape;2017;August;2;2;46.59;48.29;48.29;49.99
+6857;The Dynamic Duo Funhouse Escape;2017;July;4;11;52.50;59.38;57.27;65.00
+6857;The Dynamic Duo Funhouse Escape;2017;June;3;23;49.95;58.31;59.34;65.00
+6857;The Dynamic Duo Funhouse Escape;2017;May;1;2;44.00;44.00;44.00;44.00
+6858;Catwoman Catcycle City Chase;2017;November;1;4;19.95;19.95;19.95;19.95
+6858;Catwoman Catcycle City Chase;2017;October;1;3;18.59;18.59;18.59;18.59
+6858;Catwoman Catcycle City Chase;2017;September;1;1;25.87;25.87;25.87;25.87
+6858;Catwoman Catcycle City Chase;2017;August;1;1;18.59;18.59;18.59;18.59
+6858;Catwoman Catcycle City Chase;2017;July;2;2;27.17;34.09;34.09;41.01
+6858;Catwoman Catcycle City Chase;2017;June;4;4;12.73;17.02;17.02;19.75
+6858;Catwoman Catcycle City Chase;2017;May;2;8;15.00;16.62;17.03;18.25
+6860;The Batcave;2017;October;1;2;97.60;97.60;97.60;97.60
+6860;The Batcave;2017;September;4;13;74.98;78.74;76.15;82.49
+6860;The Batcave;2017;August;3;4;75.00;76.77;77.27;78.76
+6860;The Batcave;2017;July;3;3;73.00;73.99;73.99;74.99
+6860;The Batcave;2017;June;4;4;73.33;74.32;74.32;75.00
+6860;The Batcave;2017;May;3;4;65.00;72.94;75.05;81.38
+6862;Superman vs. Power Armor Lex;2017;November;4;6;18.00;23.37;21.75;35.00
+6862;Superman vs. Power Armor Lex;2017;October;5;13;15.88;22.27;20.62;36.27
+6862;Superman vs. Power Armor Lex;2017;September;5;21;15.00;16.60;16.38;21.99
+6862;Superman vs. Power Armor Lex;2017;August;9;11;17.50;20.87;20.34;29.81
+6862;Superman vs. Power Armor Lex;2017;July;8;9;13.50;23.10;23.16;31.72
+6862;Superman vs. Power Armor Lex;2017;June;8;26;14.87;22.67;19.33;45.11
+6862;Superman vs. Power Armor Lex;2017;May;1;7;19.98;19.98;19.98;19.98
+6863;Batwing Battle Over Gotham City;2017;November;1;1;38.00;38.00;38.00;38.00
+6863;Batwing Battle Over Gotham City;2017;October;3;3;33.00;41.00;41.00;45.00
+6863;Batwing Battle Over Gotham City;2017;September;1;1;39.95;39.95;39.95;39.95
+6863;Batwing Battle Over Gotham City;2017;August;2;2;51.56;55.18;55.18;58.80
+6863;Batwing Battle Over Gotham City;2017;July;2;2;42.27;46.08;46.08;49.90
+6863;Batwing Battle Over Gotham City;2017;June;3;3;18.87;29.96;29.96;36.02
+6864;Batmobile and the Two-Face Chase;2017;November;2;2;71.89;75.52;75.52;79.15
+6864;Batmobile and the Two-Face Chase;2017;September;3;5;78.88;95.30;88.73;118.14
+6864;Batmobile and the Two-Face Chase;2017;August;1;1;86.79;86.79;86.79;86.79
+6864;Batmobile and the Two-Face Chase;2017;July;1;3;99.00;99.00;99.00;99.00
+6864;Batmobile and the Two-Face Chase;2017;June;3;5;61.91;73.97;74.76;89.99
+6865;Captain America's Avenging Cycle;2017;October;3;4;16.88;27.51;26.77;41.11
+6865;Captain America's Avenging Cycle;2017;September;3;10;26.75;31.70;28.23;41.34
+6865;Captain America's Avenging Cycle;2017;July;3;3;23.18;27.82;27.82;36.89
+6865;Captain America's Avenging Cycle;2017;June;1;5;24.15;24.15;24.15;24.15
+6865;Captain America's Avenging Cycle;2017;May;1;1;23.00;23.00;23.00;23.00
+6866;Wolverine's Chopper Showdown;2017;November;3;3;84.99;94.33;94.33;108.00
+6866;Wolverine's Chopper Showdown;2017;October;4;4;100.00;118.12;118.12;133.20
+6866;Wolverine's Chopper Showdown;2017;September;1;3;129.26;129.26;129.26;129.26
+6866;Wolverine's Chopper Showdown;2017;August;1;1;106.64;106.64;106.64;106.64
+6866;Wolverine's Chopper Showdown;2017;July;4;4;100.00;108.18;108.18;120.00
+6866;Wolverine's Chopper Showdown;2017;June;4;4;98.99;107.47;107.47;119.95
+6866;Wolverine's Chopper Showdown;2017;May;1;1;99.99;99.99;99.99;99.99
+6867;Loki's Cosmic Cube Escape;2017;November;1;1;52.40;52.40;52.40;52.40
+6867;Loki's Cosmic Cube Escape;2017;October;3;9;30.40;31.47;30.76;32.00
+6867;Loki's Cosmic Cube Escape;2017;July;2;2;34.00;34.93;34.93;35.85
+6867;Loki's Cosmic Cube Escape;2017;June;4;33;31.00;33.61;37.02;37.49
+6868;Hulk's Helicarrier Breakout;2017;November;1;1;70.00;70.00;70.00;70.00
+6868;Hulk's Helicarrier Breakout;2017;October;2;2;50.00;75.00;75.00;99.99
+6868;Hulk's Helicarrier Breakout;2017;September;1;1;106.32;106.32;106.32;106.32
+6868;Hulk's Helicarrier Breakout;2017;August;2;5;65.00;79.48;70.79;93.96
+6868;Hulk's Helicarrier Breakout;2017;July;1;1;64.99;64.99;64.99;64.99
+6868;Hulk's Helicarrier Breakout;2017;June;3;3;59.75;62.57;62.57;63.98
+6868;Hulk's Helicarrier Breakout;2017;May;1;1;55.00;55.00;55.00;55.00
+6869;Quinjet Aerial Battle;2017;November;2;2;68.88;83.84;83.84;98.80
+6869;Quinjet Aerial Battle;2017;October;3;3;88.00;100.43;100.43;110.00
+6869;Quinjet Aerial Battle;2017;September;1;1;129.95;129.95;129.95;129.95
+6869;Quinjet Aerial Battle;2017;August;3;3;89.08;100.61;100.61;109.99
+6869;Quinjet Aerial Battle;2017;July;1;1;86.04;86.04;86.04;86.04
+6869;Quinjet Aerial Battle;2017;June;1;1;75.00;75.00;75.00;75.00
+6869;Quinjet Aerial Battle;2017;May;2;2;109.99;120.54;120.54;131.09
+6873;Spider-Man's Doc Ock Ambush;2017;October;1;1;41.88;41.88;41.88;41.88
+6873;Spider-Man's Doc Ock Ambush;2017;September;2;2;44.96;54.96;54.96;64.97
+6873;Spider-Man's Doc Ock Ambush;2017;August;1;1;45.00;45.00;45.00;45.00
+6873;Spider-Man's Doc Ock Ambush;2017;July;2;2;46.55;52.74;52.74;58.93
+6873;Spider-Man's Doc Ock Ambush;2017;June;5;5;40.88;46.88;46.88;50.53
+6910;Mini Sports Car;2017;September;1;1;6.72;6.72;6.72;6.72
+6910;Mini Sports Car;2017;August;3;4;6.87;8.15;7.83;10.58
+6910;Mini Sports Car;2017;June;1;1;7.95;7.95;7.95;7.95
+6911;Mini Fire Truck;2017;November;1;1;9.28;9.28;9.28;9.28
+6911;Mini Fire Truck;2017;September;1;1;8.15;8.15;8.15;8.15
+6911;Mini Fire Truck;2017;August;1;1;6.39;6.39;6.39;6.39
+6911;Mini Fire Truck;2017;July;1;1;10.32;10.32;10.32;10.32
+6912;Super Soarer;2017;September;1;1;14.25;14.25;14.25;14.25
+6912;Super Soarer;2017;August;2;2;7.63;9.17;9.17;10.71
+6913;Blue Roadster;2017;November;1;1;10.45;10.45;10.45;10.45
+6913;Blue Roadster;2017;August;3;9;10.00;15.00;19.67;22.00
+6913;Blue Roadster;2017;July;2;2;10.00;12.20;12.20;14.40
+6914;Prehistoric Hunters;2017;November;1;1;38.88;38.88;38.88;38.88
+6914;Prehistoric Hunters;2017;October;1;1;33.30;33.30;33.30;33.30
+6914;Prehistoric Hunters;2017;September;1;1;53.71;53.71;53.71;53.71
+6914;Prehistoric Hunters;2017;August;2;2;20.00;34.50;34.50;48.99
+6914;Prehistoric Hunters;2017;July;1;1;49.99;49.99;49.99;49.99
+7291;Street Rebel;2017;November;1;1;17.50;17.50;17.50;17.50
+7291;Street Rebel;2017;September;1;1;14.50;14.50;14.50;14.50
+7292;Propeller Adventures;2017;August;1;1;31.78;31.78;31.78;31.78
+7292;Propeller Adventures;2017;July;1;1;19.80;19.80;19.80;19.80
+7345;Transport Chopper;2017;September;1;1;30.00;30.00;30.00;30.00
+7346;Seaside House;2017;November;3;3;44.00;53.61;53.61;65.00
+7346;Seaside House;2017;October;2;4;41.29;42.37;41.83;43.44
+7346;Seaside House;2017;September;2;3;50.00;52.50;53.33;55.00
+7346;Seaside House;2017;July;3;3;51.14;53.71;53.71;55.00
+7346;Seaside House;2017;June;3;4;51.55;56.05;55.79;61.59
+7346;Seaside House;2017;May;1;1;55.24;55.24;55.24;55.24
+7347;Highway Pickup;2017;November;2;4;70.21;73.10;74.55;75.99
+7347;Highway Pickup;2017;September;2;3;63.19;69.10;71.06;75.00
+7347;Highway Pickup;2017;June;2;2;63.33;64.16;64.16;65.00
+7347;Highway Pickup;2017;May;1;1;68.99;68.99;68.99;68.99
+9092;Crazy Demon;2017;October;1;1;16.54;16.54;16.54;16.54
+9092;Crazy Demon;2017;September;3;3;13.52;13.85;13.85;14.37
+9092;Crazy Demon;2017;May;1;1;20.00;20.00;20.00;20.00
+9093;Bone Cruncher;2017;September;1;1;15.37;15.37;15.37;15.37
+9093;Bone Cruncher;2017;May;1;1;15.00;15.00;15.00;15.00
+9094;Star Striker;2017;September;1;1;20.41;20.41;20.41;20.41
+9095;Nitro Predator;2017;October;1;1;15.93;15.93;15.93;15.93
+9095;Nitro Predator;2017;September;1;1;14.95;14.95;14.95;14.95
+9095;Nitro Predator;2017;June;1;1;11.40;11.40;11.40;11.40
+9095;Nitro Predator;2017;May;1;1;11.79;11.79;11.79;11.79
+9388;Small building plates;2017;September;1;2;31.99;31.99;31.99;31.99
+9388;Small building plates;2017;August;1;48;27.16;27.16;27.16;27.16
+9388;Small building plates;2017;July;1;1;31.69;31.69;31.69;31.69
+9388;Small building plates;2017;June;1;2;30.49;30.49;30.49;30.49
+9389;Community Starter Set;2017;October;2;6;222.61;222.61;222.61;222.61
+9389;Community Starter Set;2017;September;1;1;196.01;196.01;196.01;196.01
+9389;Community Starter Set;2017;July;1;3;226.98;226.98;226.98;226.98
+9390;Mini Tow Truck;2017;November;1;1;31.30;31.30;31.30;31.30
+9390;Mini Tow Truck;2017;September;1;1;16.54;16.54;16.54;16.54
+9391;Tracked Crane;2017;October;2;2;31.57;33.42;33.42;35.28
+9391;Tracked Crane;2017;August;1;1;37.87;37.87;37.87;37.87
+9391;Tracked Crane;2017;July;1;1;41.00;41.00;41.00;41.00
+9391;Tracked Crane;2017;June;1;1;42.55;42.55;42.55;42.55
+9391;Tracked Crane;2017;May;1;1;42.29;42.29;42.29;42.29
+9392;Quad Bike;2017;October;1;1;47.35;47.35;47.35;47.35
+9392;Quad Bike;2017;June;1;1;50.76;50.76;50.76;50.76
+9393;Tractor;2017;November;1;1;62.57;62.57;62.57;62.57
+9393;Tractor;2017;September;1;1;59.96;59.96;59.96;59.96
+9393;Tractor;2017;June;2;3;39.95;59.17;65.58;78.40
+9393;Tractor;2017;May;1;1;51.00;51.00;51.00;51.00
+9394;Jet Plane;2017;July;2;3;53.95;60.39;62.53;66.82
+9394;Jet Plane;2017;June;2;2;62.47;68.18;68.18;73.89
+9395;Pick-Up Tow Truck;2017;October;2;2;85.00;105.00;105.00;125.00
+9395;Pick-Up Tow Truck;2017;September;3;3;78.00;89.91;89.91;106.73
+9395;Pick-Up Tow Truck;2017;August;2;2;101.69;109.93;109.93;118.16
+9395;Pick-Up Tow Truck;2017;July;3;5;85.00;88.78;87.27;91.38
+9395;Pick-Up Tow Truck;2017;June;4;6;66.04;84.57;84.71;97.22
+9396;Helicopter;2017;October;5;5;115.41;149.69;149.69;186.19
+9396;Helicopter;2017;September;5;5;125.00;162.48;162.48;201.87
+9396;Helicopter;2017;August;3;5;139.99;156.54;152.77;175.43
+9396;Helicopter;2017;July;1;1;158.84;158.84;158.84;158.84
+9396;Helicopter;2017;June;1;1;145.66;145.66;145.66;145.66
+9397;Logging Truck;2017;October;1;1;174.23;174.23;174.23;174.23
+9397;Logging Truck;2017;September;3;4;178.98;194.41;196.47;202.67
+9397;Logging Truck;2017;August;3;3;174.97;193.00;193.00;209.36
+9397;Logging Truck;2017;June;3;5;180.00;181.63;181.88;184.51
+9398;4x4 Crawler;2017;November;2;2;224.99;268.75;268.75;312.51
+9398;4x4 Crawler;2017;October;3;3;200.00;219.63;219.63;233.90
+9398;4x4 Crawler;2017;September;8;10;240.00;257.59;256.28;300.80
+9398;4x4 Crawler;2017;August;4;5;234.38;238.11;238.49;240.00
+9398;4x4 Crawler;2017;July;5;6;236.93;257.46;262.06;285.08
+9398;4x4 Crawler;2017;June;5;7;218.49;243.94;238.92;283.32
+9398;4x4 Crawler;2017;May;4;6;224.46;237.61;235.82;247.50
+9440;Venomari Shrine;2017;November;1;3;20.87;20.87;20.87;20.87
+9440;Venomari Shrine;2017;October;1;1;15.00;15.00;15.00;15.00
+9440;Venomari Shrine;2017;September;1;1;14.49;14.49;14.49;14.49
+9440;Venomari Shrine;2017;August;1;1;20.00;20.00;20.00;20.00
+9440;Venomari Shrine;2017;July;4;7;10.00;13.99;14.48;16.56
+9440;Venomari Shrine;2017;June;1;1;14.99;14.99;14.99;14.99
+9441;Kai's Blade Cycle;2017;November;3;3;35.35;46.59;46.59;55.00
+9441;Kai's Blade Cycle;2017;September;1;1;38.00;38.00;38.00;38.00
+9441;Kai's Blade Cycle;2017;July;2;2;30.00;51.23;51.23;72.46
+9441;Kai's Blade Cycle;2017;June;1;1;75.66;75.66;75.66;75.66
+9442;Jay's Storm Fighter;2017;September;1;1;56.61;56.61;56.61;56.61
+9442;Jay's Storm Fighter;2017;August;1;1;33.88;33.88;33.88;33.88
+9442;Jay's Storm Fighter;2017;July;3;14;22.00;33.57;39.62;41.27
+9443;Rattlecopter;2017;November;2;4;58.92;61.23;62.39;63.55
+9443;Rattlecopter;2017;October;3;5;58.88;64.37;62.31;75.00
+9443;Rattlecopter;2017;July;2;3;58.88;63.29;64.76;67.70
+9443;Rattlecopter;2017;June;3;3;50.99;58.96;58.96;69.95
+9443;Rattlecopter;2017;May;2;2;52.36;58.68;58.68;65.00
+9444;Cole's Tread Assault;2017;October;1;1;125.00;125.00;125.00;125.00
+9444;Cole's Tread Assault;2017;August;1;1;95.00;95.00;95.00;95.00
+9444;Cole's Tread Assault;2017;July;4;4;89.99;99.58;99.58;115.00
+9445;Fangpyre Truck Ambush;2017;November;1;1;80.00;80.00;80.00;80.00
+9445;Fangpyre Truck Ambush;2017;October;1;1;142.83;142.83;142.83;142.83
+9445;Fangpyre Truck Ambush;2017;August;1;5;125.85;125.85;125.85;125.85
+9445;Fangpyre Truck Ambush;2017;May;1;1;139.95;139.95;139.95;139.95
+9446;Destiny's Bounty;2017;October;2;2;108.03;119.63;119.63;131.22
+9446;Destiny's Bounty;2017;September;1;1;133.24;133.24;133.24;133.24
+9446;Destiny's Bounty;2017;July;2;2;150.00;150.00;150.00;150.00
+9446;Destiny's Bounty;2017;June;1;1;136.13;136.13;136.13;136.13
+9447;Lasha's Bite Cycle;2017;October;1;1;25.00;25.00;25.00;25.00
+9447;Lasha's Bite Cycle;2017;August;2;2;25.00;25.00;25.00;25.00
+9447;Lasha's Bite Cycle;2017;July;2;9;20.00;21.41;22.51;22.82
+9447;Lasha's Bite Cycle;2017;June;2;2;19.99;20.39;20.39;20.78
+9448;Samurai Mech;2017;November;1;1;50.00;50.00;50.00;50.00
+9448;Samurai Mech;2017;October;6;12;44.03;53.26;54.75;66.41
+9448;Samurai Mech;2017;August;3;5;46.06;48.44;49.06;50.00
+9448;Samurai Mech;2017;July;4;5;49.99;59.89;63.29;76.88
+9448;Samurai Mech;2017;June;2;2;45.00;49.50;49.50;54.00
+9448;Samurai Mech;2017;May;1;1;49.50;49.50;49.50;49.50
+9449;Ultra Sonic Raider;2017;October;2;8;101.42;105.66;102.48;109.90
+9449;Ultra Sonic Raider;2017;September;2;2;80.00;89.95;89.95;99.90
+9449;Ultra Sonic Raider;2017;July;2;6;89.90;94.45;91.42;99.00
+9449;Ultra Sonic Raider;2017;June;1;1;130.00;130.00;130.00;130.00
+9449;Ultra Sonic Raider;2017;May;1;1;88.88;88.88;88.88;88.88
+9450;Epic Dragon Battle;2017;November;5;6;102.00;107.00;106.17;119.99
+9450;Epic Dragon Battle;2017;October;8;11;105.99;137.58;138.54;192.12
+9450;Epic Dragon Battle;2017;September;9;12;96.20;109.60;116.28;151.48
+9450;Epic Dragon Battle;2017;August;2;2;91.88;92.74;92.74;93.59
+9450;Epic Dragon Battle;2017;July;4;4;83.78;107.32;107.32;147.54
+9450;Epic Dragon Battle;2017;June;5;5;97.49;115.31;115.31;147.57
+9450;Epic Dragon Battle;2017;May;2;2;88.00;91.44;91.44;94.88
+9455;Fangpyre Mech;2017;November;2;3;33.82;35.80;35.14;37.79
+9455;Fangpyre Mech;2017;October;1;1;23.68;23.68;23.68;23.68
+9455;Fangpyre Mech;2017;June;1;1;29.00;29.00;29.00;29.00
+9457;Fangpyre Wrecking Ball;2017;October;1;1;150.00;150.00;150.00;150.00
+9457;Fangpyre Wrecking Ball;2017;June;1;1;83.36;83.36;83.36;83.36
+9457;Fangpyre Wrecking Ball;2017;May;1;1;95.00;95.00;95.00;95.00
+9461;The Swamp Creature;2017;November;8;18;11.66;14.69;14.53;17.99
+9461;The Swamp Creature;2017;October;8;11;10.22;14.05;15.33;18.75
+9461;The Swamp Creature;2017;September;7;10;12.00;12.89;13.22;14.01
+9461;The Swamp Creature;2017;August;5;8;9.00;11.84;12.93;14.75
+9461;The Swamp Creature;2017;July;6;24;10.00;11.38;11.59;12.00
+9461;The Swamp Creature;2017;June;5;5;9.40;11.33;11.33;13.99
+9461;The Swamp Creature;2017;May;1;1;12.30;12.30;12.30;12.30
+9462;The Mummy;2017;November;10;12;15.99;20.98;21.02;23.45
+9462;The Mummy;2017;October;17;26;14.99;19.28;19.92;23.48
+9462;The Mummy;2017;September;6;14;15.00;16.02;16.14;18.26
+9462;The Mummy;2017;August;8;21;9.00;16.31;16.93;19.99
+9462;The Mummy;2017;July;13;31;11.00;15.27;16.29;18.85
+9462;The Mummy;2017;June;8;9;7.60;15.75;16.00;18.80
+9462;The Mummy;2017;May;3;3;15.00;16.82;16.82;20.00
+9463;The Werewolf;2017;November;3;8;25.00;32.49;28.56;45.47
+9463;The Werewolf;2017;October;10;16;19.88;31.77;32.29;49.33
+9463;The Werewolf;2017;September;7;7;15.00;25.74;25.74;35.88
+9463;The Werewolf;2017;August;9;9;7.06;26.19;26.19;43.11
+9463;The Werewolf;2017;July;8;9;17.82;22.55;22.48;28.99
+9463;The Werewolf;2017;June;7;8;20.00;27.14;26.24;38.17
+9463;The Werewolf;2017;May;1;1;20.00;20.00;20.00;20.00
+9464;The Vampyre Hearse;2017;November;5;5;45.00;50.66;50.66;59.99
+9464;The Vampyre Hearse;2017;October;6;6;25.00;37.15;37.15;46.03
+9464;The Vampyre Hearse;2017;September;4;4;31.20;39.42;39.42;49.50
+9464;The Vampyre Hearse;2017;August;5;11;39.99;48.33;44.33;58.78
+9464;The Vampyre Hearse;2017;July;7;9;32.00;37.07;37.16;41.00
+9464;The Vampyre Hearse;2017;June;4;4;29.94;39.23;39.23;47.01
+9464;The Vampyre Hearse;2017;May;1;1;55.34;55.34;55.34;55.34
+9465;The Zombies;2017;November;1;1;179.99;179.99;179.99;179.99
+9465;The Zombies;2017;October;2;2;169.00;169.48;169.48;169.95
+9465;The Zombies;2017;September;2;2;175.00;180.48;180.48;185.95
+9465;The Zombies;2017;August;3;4;120.73;149.58;142.37;178.00
+9465;The Zombies;2017;July;3;3;155.00;158.33;158.33;165.00
+9465;The Zombies;2017;June;3;3;141.02;147.34;147.34;160.00
+9465;The Zombies;2017;May;1;1;138.00;138.00;138.00;138.00
+9466;The Crazy Scientist & His Monster;2017;November;3;3;60.00;69.11;69.11;76.59
+9466;The Crazy Scientist & His Monster;2017;October;7;9;50.00;61.81;65.77;109.21
+9466;The Crazy Scientist & His Monster;2017;September;6;6;46.55;57.96;57.96;84.11
+9466;The Crazy Scientist & His Monster;2017;August;5;5;46.55;52.29;52.29;71.82
+9466;The Crazy Scientist & His Monster;2017;July;2;3;54.00;67.85;72.46;81.69
+9466;The Crazy Scientist & His Monster;2017;June;4;4;51.50;60.79;60.79;78.85
+9466;The Crazy Scientist & His Monster;2017;May;2;2;51.00;58.48;58.48;65.96
+9467;The Ghost Train;2017;November;5;5;89.00;99.40;99.40;115.44
+9467;The Ghost Train;2017;October;8;8;85.00;96.06;96.06;113.20
+9467;The Ghost Train;2017;September;7;7;84.00;90.05;90.05;95.00
+9467;The Ghost Train;2017;August;10;10;84.00;98.67;98.67;129.50
+9467;The Ghost Train;2017;July;2;3;87.50;88.19;87.96;88.88
+9467;The Ghost Train;2017;June;9;9;72.84;94.42;94.42;124.06
+9467;The Ghost Train;2017;May;2;2;85.00;86.50;86.50;88.00
+9468;Vampyre Castle;2017;November;4;4;132.00;153.87;153.87;186.05
+9468;Vampyre Castle;2017;October;7;9;120.00;150.53;158.72;187.46
+9468;Vampyre Castle;2017;September;4;4;130.00;136.88;136.88;140.00
+9468;Vampyre Castle;2017;August;6;6;129.99;146.09;146.09;181.05
+9468;Vampyre Castle;2017;July;6;6;80.00;142.67;142.67;193.82
+9468;Vampyre Castle;2017;June;9;10;115.00;142.48;143.23;169.22
+9468;Vampyre Castle;2017;May;1;1;110.00;110.00;110.00;110.00
+9469;Gandalf Arrives;2017;November;5;5;9.99;25.37;25.37;34.93
+9469;Gandalf Arrives;2017;October;5;7;24.99;34.13;36.12;51.66
+9469;Gandalf Arrives;2017;September;4;5;21.00;27.05;26.89;36.46
+9469;Gandalf Arrives;2017;August;8;30;24.00;29.42;28.24;35.66
+9469;Gandalf Arrives;2017;July;5;5;5.03;22.86;22.86;31.26
+9469;Gandalf Arrives;2017;June;6;10;18.49;26.15;26.09;29.99
+9469;Gandalf Arrives;2017;May;2;3;29.91;29.95;29.94;29.99
+9469;Gandalf Arrives;2017;April;1;2;29.00;29.00;29.00;29.00
+9470;Shelob Attacks;2017;November;5;5;44.64;53.24;53.24;64.81
+9470;Shelob Attacks;2017;October;3;5;58.23;58.92;59.35;59.99
+9470;Shelob Attacks;2017;September;4;6;48.75;55.49;55.32;64.12
+9470;Shelob Attacks;2017;August;2;2;46.34;46.81;46.81;47.29
+9470;Shelob Attacks;2017;July;4;5;49.00;55.27;55.85;62.88
+9470;Shelob Attacks;2017;June;5;5;40.00;49.89;49.89;60.46
+9471;Uruk-Hai Army;2017;November;3;3;64.88;71.40;71.40;80.45
+9471;Uruk-Hai Army;2017;October;8;25;57.00;61.29;63.23;70.00
+9471;Uruk-Hai Army;2017;September;4;4;52.50;73.63;73.63;92.83
+9471;Uruk-Hai Army;2017;August;4;8;59.99;73.80;66.89;88.21
+9471;Uruk-Hai Army;2017;July;9;10;53.88;71.01;71.31;89.29
+9471;Uruk-Hai Army;2017;June;5;6;55.96;62.80;61.83;88.00
+9471;Uruk-Hai Army;2017;March;1;2;51.64;51.64;51.64;51.64
+9472;Attack On Weathertop;2017;November;2;2;66.00;89.01;89.01;112.03
+9472;Attack On Weathertop;2017;October;9;11;60.19;80.90;84.33;119.52
+9472;Attack On Weathertop;2017;September;6;11;64.00;72.47;69.71;100.83
+9472;Attack On Weathertop;2017;August;2;4;62.00;66.00;68.00;70.00
+9472;Attack On Weathertop;2017;July;2;2;62.00;63.25;63.25;64.50
+9472;Attack On Weathertop;2017;June;11;13;69.00;89.77;86.73;130.00
+9472;Attack On Weathertop;2017;May;1;1;66.81;66.81;66.81;66.81
+9472;Attack On Weathertop;2017;March;1;1;70.00;70.00;70.00;70.00
+9473;The Mines of Moria;2017;November;4;5;99.99;111.96;112.57;124.86
+9473;The Mines of Moria;2017;October;6;7;96.36;110.46;108.44;128.12
+9473;The Mines of Moria;2017;September;2;2;119.26;124.68;124.68;130.10
+9473;The Mines of Moria;2017;August;5;5;39.95;96.87;96.87;132.50
+9473;The Mines of Moria;2017;July;5;5;95.00;104.22;104.22;122.05
+9473;The Mines of Moria;2017;June;7;8;100.00;112.17;111.27;133.72
+9473;The Mines of Moria;2017;May;3;10;99.99;112.18;103.65;119.99
+9474;The Battle of Helm's Deep;2017;November;5;5;174.95;199.67;199.67;248.30
+9474;The Battle of Helm's Deep;2017;October;4;5;146.74;180.93;179.04;230.46
+9474;The Battle of Helm's Deep;2017;September;6;6;166.34;196.77;196.77;250.34
+9474;The Battle of Helm's Deep;2017;August;11;12;150.00;173.66;173.48;209.69
+9474;The Battle of Helm's Deep;2017;July;3;3;165.00;197.93;197.93;216.65
+9474;The Battle of Helm's Deep;2017;June;9;10;160.00;199.81;195.93;265.68
+9474;The Battle of Helm's Deep;2017;May;2;2;169.99;182.11;182.11;194.23
+9476;The Orc Forge;2017;November;3;3;59.61;74.25;74.25;93.16
+9476;The Orc Forge;2017;October;3;4;58.00;59.52;59.78;60.56
+9476;The Orc Forge;2017;September;2;2;55.00;56.00;56.00;57.00
+9476;The Orc Forge;2017;August;4;4;58.81;65.21;65.21;70.95
+9476;The Orc Forge;2017;July;2;2;50.00;63.68;63.68;77.35
+9476;The Orc Forge;2017;June;1;1;49.99;49.99;49.99;49.99
+9476;The Orc Forge;2017;May;2;2;49.99;58.53;58.53;67.07
+9478;Francesco Bernoulli;2017;November;1;1;50.00;50.00;50.00;50.00
+9478;Francesco Bernoulli;2017;September;1;1;15.51;15.51;15.51;15.51
+9479;Ivan Mater;2017;October;1;1;17.50;17.50;17.50;17.50
+9479;Ivan Mater;2017;September;1;1;17.89;17.89;17.89;17.89
+9479;Ivan Mater;2017;July;2;2;15.72;16.86;16.86;18.00
+9480;Finn McMissile;2017;November;1;1;20.00;20.00;20.00;20.00
+9480;Finn McMissile;2017;September;1;1;15.00;15.00;15.00;15.00
+9481;Jeff Gorvette;2017;November;2;5;18.00;18.00;18.00;18.01
+9481;Jeff Gorvette;2017;October;2;2;16.20;18.10;18.10;20.00
+9481;Jeff Gorvette;2017;July;1;1;21.00;21.00;21.00;21.00
+9481;Jeff Gorvette;2017;May;1;1;39.99;39.99;39.99;39.99
+9483;Agent Mater's Escape;2017;November;1;2;22.00;22.00;22.00;22.00
+9483;Agent Mater's Escape;2017;October;3;4;18.61;21.87;22.65;25.00
+9483;Agent Mater's Escape;2017;September;1;1;22.00;22.00;22.00;22.00
+9483;Agent Mater's Escape;2017;August;1;1;29.38;29.38;29.38;29.38
+9483;Agent Mater's Escape;2017;June;1;1;29.99;29.99;29.99;29.99
+9483;Agent Mater's Escape;2017;May;2;2;30.00;32.50;32.50;34.99
+9484;Red's Water Rescue;2017;November;1;1;35.00;35.00;35.00;35.00
+9484;Red's Water Rescue;2017;August;1;1;29.18;29.18;29.18;29.18
+9484;Red's Water Rescue;2017;July;1;1;35.00;35.00;35.00;35.00
+9484;Red's Water Rescue;2017;June;1;1;43.55;43.55;43.55;43.55
+9484;Red's Water Rescue;2017;May;2;2;43.00;43.00;43.00;43.00
+9485;Ultimate Race Set;2017;November;1;1;90.00;90.00;90.00;90.00
+9485;Ultimate Race Set;2017;August;1;1;88.13;88.13;88.13;88.13
+9485;Ultimate Race Set;2017;July;2;2;90.00;95.00;95.00;99.99
+9486;Oil Rig Escape;2017;November;2;2;81.51;84.76;84.76;88.00
+9486;Oil Rig Escape;2017;September;1;1;83.19;83.19;83.19;83.19
+9486;Oil Rig Escape;2017;August;3;6;75.00;81.98;78.49;88.00
+9486;Oil Rig Escape;2017;May;1;3;88.00;88.00;88.00;88.00
+9488;Elite Clone Trooper & Commando Droid Battle Pack;2017;November;5;10;25.00;30.60;33.45;36.50
+9488;Elite Clone Trooper & Commando Droid Battle Pack;2017;October;10;16;22.88;29.35;29.69;38.90
+9488;Elite Clone Trooper & Commando Droid Battle Pack;2017;September;5;13;26.50;30.59;31.19;32.88
+9488;Elite Clone Trooper & Commando Droid Battle Pack;2017;August;5;6;27.00;28.40;28.30;29.99
+9488;Elite Clone Trooper & Commando Droid Battle Pack;2017;July;6;8;20.75;24.94;23.89;28.00
+9488;Elite Clone Trooper & Commando Droid Battle Pack;2017;June;5;6;23.00;25.59;25.16;28.11
+9488;Elite Clone Trooper & Commando Droid Battle Pack;2017;May;1;1;28.50;28.50;28.50;28.50
+9489;Endor Rebel Trooper & Imperial Trooper Battle Pack;2017;November;9;13;17.60;22.42;22.24;29.10
+9489;Endor Rebel Trooper & Imperial Trooper Battle Pack;2017;October;8;12;15.99;22.64;20.42;26.59
+9489;Endor Rebel Trooper & Imperial Trooper Battle Pack;2017;September;7;13;19.60;22.25;22.60;23.95
+9489;Endor Rebel Trooper & Imperial Trooper Battle Pack;2017;August;6;7;20.00;21.84;22.00;22.99
+9489;Endor Rebel Trooper & Imperial Trooper Battle Pack;2017;July;1;1;20.00;20.00;20.00;20.00
+9489;Endor Rebel Trooper & Imperial Trooper Battle Pack;2017;June;8;9;14.00;18.73;18.42;25.00
+9489;Endor Rebel Trooper & Imperial Trooper Battle Pack;2017;May;2;10;20.00;21.44;22.59;22.88
+9490;Droid Escape;2017;October;2;2;35.54;37.81;37.81;40.07
+9490;Droid Escape;2017;September;3;4;29.98;31.20;30.90;33.64
+9490;Droid Escape;2017;August;4;4;27.50;31.70;31.70;35.00
+9490;Droid Escape;2017;July;1;1;25.00;25.00;25.00;25.00
+9490;Droid Escape;2017;June;2;2;31.29;35.15;35.15;39.00
+9490;Droid Escape;2017;May;1;3;26.00;26.00;26.00;26.00
+9491;Geonosian Cannon;2017;November;4;4;18.00;19.90;19.90;21.93
+9491;Geonosian Cannon;2017;October;7;12;17.00;20.75;20.23;26.63
+9491;Geonosian Cannon;2017;September;4;7;17.00;19.88;19.92;21.66
+9491;Geonosian Cannon;2017;August;2;2;22.06;22.56;22.56;23.06
+9491;Geonosian Cannon;2017;July;4;6;15.50;17.30;17.39;18.58
+9491;Geonosian Cannon;2017;June;3;3;18.50;19.39;19.39;20.00
+9491;Geonosian Cannon;2017;May;1;1;20.32;20.32;20.32;20.32
+9492;TIE Fighter;2017;November;1;1;69.99;69.99;69.99;69.99
+9492;TIE Fighter;2017;October;3;3;68.00;75.15;75.15;78.77
+9492;TIE Fighter;2017;September;1;1;72.50;72.50;72.50;72.50
+9492;TIE Fighter;2017;August;3;3;81.00;83.83;83.83;88.31
+9492;TIE Fighter;2017;July;1;2;80.00;80.00;80.00;80.00
+9492;TIE Fighter;2017;June;1;1;75.00;75.00;75.00;75.00
+9492;TIE Fighter;2017;May;4;4;69.99;75.24;75.24;84.04
+9493;X-wing Starfighter;2017;October;4;4;139.00;143.90;143.90;150.00
+9493;X-wing Starfighter;2017;September;5;5;135.00;140.45;140.45;148.75
+9493;X-wing Starfighter;2017;August;1;1;155.02;155.02;155.02;155.02
+9493;X-wing Starfighter;2017;July;3;3;130.00;136.00;136.00;139.99
+9493;X-wing Starfighter;2017;June;2;2;106.52;120.94;120.94;135.35
+9493;X-wing Starfighter;2017;May;2;2;135.00;142.88;142.88;150.76
+9494;Anakin's Jedi Interceptor;2017;November;2;2;14.74;49.87;49.87;85.00
+9494;Anakin's Jedi Interceptor;2017;September;1;1;101.33;101.33;101.33;101.33
+9494;Anakin's Jedi Interceptor;2017;July;3;3;14.25;57.31;57.31;79.69
+9494;Anakin's Jedi Interceptor;2017;June;3;4;13.99;56.38;45.78;79.95
+9494;Anakin's Jedi Interceptor;2017;May;3;3;65.50;82.47;82.47;102.90
+9495;Gold Leader's Y-wing Starfighter;2017;October;1;1;100.00;100.00;100.00;100.00
+9495;Gold Leader's Y-wing Starfighter;2017;June;1;1;100.00;100.00;100.00;100.00
+9496;Desert Skiff;2017;November;2;2;40.50;44.71;44.71;48.92
+9496;Desert Skiff;2017;October;3;3;14.11;26.37;26.37;37.00
+9496;Desert Skiff;2017;September;5;12;32.00;35.60;35.92;38.99
+9496;Desert Skiff;2017;August;2;2;30.00;35.00;35.00;40.00
+9496;Desert Skiff;2017;July;2;2;29.00;29.35;29.35;29.70
+9496;Desert Skiff;2017;June;3;3;28.01;30.55;30.55;34.00
+9496;Desert Skiff;2017;May;1;2;32.00;32.00;32.00;32.00
+9497;Republic Striker-class Starfighter;2017;November;1;3;48.85;48.85;48.85;48.85
+9497;Republic Striker-class Starfighter;2017;October;7;11;50.00;56.20;57.58;60.00
+9497;Republic Striker-class Starfighter;2017;September;4;5;45.85;55.78;56.42;59.26
+9497;Republic Striker-class Starfighter;2017;August;1;1;60.00;60.00;60.00;60.00
+9497;Republic Striker-class Starfighter;2017;July;2;2;57.90;58.45;58.45;59.00
+9497;Republic Striker-class Starfighter;2017;June;6;6;13.49;43.69;43.69;64.33
+9497;Republic Striker-class Starfighter;2017;May;5;5;57.90;61.59;61.59;69.00
+9497;Republic Striker-class Starfighter;2017;April;1;1;53.26;53.26;53.26;53.26
+9498;Saesee Tiin's Jedi Starfighter;2017;November;1;1;39.87;39.87;39.87;39.87
+9498;Saesee Tiin's Jedi Starfighter;2017;September;5;8;39.00;42.33;42.69;51.83
+9498;Saesee Tiin's Jedi Starfighter;2017;August;4;7;38.67;42.67;40.96;51.45
+9498;Saesee Tiin's Jedi Starfighter;2017;July;6;6;39.00;41.55;41.55;45.50
+9498;Saesee Tiin's Jedi Starfighter;2017;June;3;3;35.00;41.11;41.11;49.34
+9499;Gungan Sub;2017;November;7;8;80.00;104.62;102.80;116.99
+9499;Gungan Sub;2017;October;3;3;80.00;89.98;89.98;104.95
+9499;Gungan Sub;2017;September;1;1;64.19;64.19;64.19;64.19
+9499;Gungan Sub;2017;July;5;5;94.50;114.78;114.78;133.91
+9499;Gungan Sub;2017;June;4;4;95.00;110.14;110.14;119.11
+9499;Gungan Sub;2017;May;3;3;61.81;88.56;88.56;105.00
+9500;Sith Fury-class Interceptor;2017;November;1;1;109.76;109.76;109.76;109.76
+9500;Sith Fury-class Interceptor;2017;October;11;12;84.92;108.92;109.53;125.00
+9500;Sith Fury-class Interceptor;2017;September;4;4;100.10;107.68;107.68;117.74
+9500;Sith Fury-class Interceptor;2017;August;5;5;110.00;113.29;113.29;124.42
+9500;Sith Fury-class Interceptor;2017;July;7;7;99.99;106.60;106.60;119.34
+9500;Sith Fury-class Interceptor;2017;June;4;4;92.60;102.64;102.64;111.83
+9500;Sith Fury-class Interceptor;2017;May;2;3;110.68;129.84;123.45;149.00
+9509;Star Wars Advent Calendar;2017;November;10;11;29.12;35.40;35.23;42.22
+9509;Star Wars Advent Calendar;2017;October;11;13;31.18;36.40;35.66;44.43
+9509;Star Wars Advent Calendar;2017;September;4;22;29.14;33.17;38.36;39.84
+9509;Star Wars Advent Calendar;2017;August;3;3;30.00;36.49;36.49;40.00
+9509;Star Wars Advent Calendar;2017;July;4;4;27.00;35.19;35.19;40.00
+9509;Star Wars Advent Calendar;2017;June;1;1;37.50;37.50;37.50;37.50
+9509;Star Wars Advent Calendar;2017;May;1;1;31.30;31.30;31.30;31.30
+9515;Malevolence;2017;October;8;8;93.86;152.58;152.58;213.00
+9515;Malevolence;2017;September;4;4;160.37;182.15;182.15;210.00
+9515;Malevolence;2017;August;3;3;175.00;176.67;176.67;180.00
+9515;Malevolence;2017;July;2;2;175.00;175.00;175.00;175.00
+9516;Jabba's Palace;2017;November;4;4;150.00;161.87;161.87;178.76
+9516;Jabba's Palace;2017;October;8;9;99.95;154.89;152.00;187.73
+9516;Jabba's Palace;2017;September;5;5;80.00;133.40;133.40;149.00
+9516;Jabba's Palace;2017;August;3;3;150.00;165.99;165.99;197.98
+9516;Jabba's Palace;2017;July;8;8;147.50;166.21;166.21;187.92
+9516;Jabba's Palace;2017;June;11;11;145.00;157.69;157.69;182.12
+9516;Jabba's Palace;2017;May;3;3;150.00;165.40;165.40;179.26
+9525;Pre Vizsla's Mandalorian Fighter;2017;November;2;2;76.63;78.21;78.21;79.79
+9525;Pre Vizsla's Mandalorian Fighter;2017;October;4;4;71.21;76.79;76.79;81.56
+9525;Pre Vizsla's Mandalorian Fighter;2017;September;4;4;60.00;80.38;80.38;90.00
+9525;Pre Vizsla's Mandalorian Fighter;2017;July;1;1;77.53;77.53;77.53;77.53
+9525;Pre Vizsla's Mandalorian Fighter;2017;June;2;2;75.00;77.28;77.28;79.55
+9525;Pre Vizsla's Mandalorian Fighter;2017;May;1;1;60.00;60.00;60.00;60.00
+9525;Pre Vizsla's Mandalorian Fighter;2017;April;1;1;50.00;50.00;50.00;50.00
+9526;Palpatine's Arrest;2017;November;4;4;155.00;166.03;166.03;175.00
+9526;Palpatine's Arrest;2017;October;3;3;154.88;159.33;159.33;168.12
+9526;Palpatine's Arrest;2017;September;5;8;149.00;165.13;170.70;182.67
+9526;Palpatine's Arrest;2017;August;6;7;149.00;160.66;162.00;169.99
+9526;Palpatine's Arrest;2017;July;7;7;145.00;159.32;159.32;180.18
+9526;Palpatine's Arrest;2017;June;4;4;149.00;167.76;167.76;210.84
+9526;Palpatine's Arrest;2017;May;3;4;160.00;168.65;166.49;179.00
+9551;Kendo Cole;2017;September;1;5;7.99;7.99;7.99;7.99
+9551;Kendo Cole;2017;August;2;2;4.74;6.37;6.37;7.99
+9551;Kendo Cole;2017;July;1;1;3.44;3.44;3.44;3.44
+9551;Kendo Cole;2017;June;3;8;5.51;6.17;5.75;6.50
+9551;Kendo Cole;2017;May;1;1;7.43;7.43;7.43;7.43
+9552;Lloyd Garmadon;2017;October;3;3;7.12;7.86;7.86;8.96
+9552;Lloyd Garmadon;2017;September;3;4;6.95;7.65;7.48;8.00
+9552;Lloyd Garmadon;2017;August;3;4;7.11;7.93;7.87;8.99
+9552;Lloyd Garmadon;2017;May;1;1;5.59;5.59;5.59;5.59
+9553;Jay ZX;2017;November;1;1;7.99;7.99;7.99;7.99
+9553;Jay ZX;2017;October;2;4;6.32;7.64;8.30;8.96
+9553;Jay ZX;2017;September;1;6;7.99;7.99;7.99;7.99
+9553;Jay ZX;2017;August;3;4;5.00;5.58;5.43;5.95
+9553;Jay ZX;2017;June;1;1;7.50;7.50;7.50;7.50
+9554;Zane ZX;2017;June;1;1;12.10;12.10;12.10;12.10
+9555;Mezmo;2017;November;1;1;12.99;12.99;12.99;12.99
+9555;Mezmo;2017;June;1;1;6.99;6.99;6.99;6.99
+9556;Bytar;2017;November;1;1;6.98;6.98;6.98;6.98
+9556;Bytar;2017;October;2;2;4.95;5.72;5.72;6.49
+9556;Bytar;2017;September;2;3;4.95;4.96;4.96;4.98
+9556;Bytar;2017;August;1;1;5.00;5.00;5.00;5.00
+9556;Bytar;2017;June;1;1;7.39;7.39;7.39;7.39
+9557;Lizaru;2017;October;1;1;8.96;8.96;8.96;8.96
+9557;Lizaru;2017;August;1;1;7.99;7.99;7.99;7.99
+9558;Training Set;2017;October;1;1;22.00;22.00;22.00;22.00
+9558;Training Set;2017;July;1;3;17.66;17.66;17.66;17.66
+9561;Kai ZX;2017;October;1;1;29.99;29.99;29.99;29.99
+9561;Kai ZX;2017;August;1;1;13.18;13.18;13.18;13.18
+9562;Lasha;2017;October;1;1;10.35;10.35;10.35;10.35
+9562;Lasha;2017;August;1;1;8.30;8.30;8.30;8.30
+9562;Lasha;2017;July;1;1;15.26;15.26;15.26;15.26
+9562;Lasha;2017;June;1;1;7.84;7.84;7.84;7.84
+9563;Kendo Zane;2017;October;1;1;14.88;14.88;14.88;14.88
+9563;Kendo Zane;2017;August;2;6;13.18;13.18;13.18;13.18
+9563;Kendo Zane;2017;July;1;1;13.04;13.04;13.04;13.04
+9563;Kendo Zane;2017;June;1;1;20.00;20.00;20.00;20.00
+9564;Snappa;2017;September;1;4;8.99;8.99;8.99;8.99
+9564;Snappa;2017;August;3;3;5.99;7.35;7.35;8.99
+9564;Snappa;2017;July;1;1;13.95;13.95;13.95;13.95
+9566;Samurai X;2017;August;2;6;13.18;13.18;13.18;13.18
+9566;Samurai X;2017;July;1;1;14.49;14.49;14.49;14.49
+9567;Fang-Suei;2017;November;1;1;15.53;15.53;15.53;15.53
+9567;Fang-Suei;2017;October;1;9;10.35;10.35;10.35;10.35
+9567;Fang-Suei;2017;September;1;2;10.18;10.18;10.18;10.18
+9567;Fang-Suei;2017;July;1;1;9.66;9.66;9.66;9.66
+9569;Spitta;2017;November;1;1;10.98;10.98;10.98;10.98
+9569;Spitta;2017;September;1;1;7.50;7.50;7.50;7.50
+9569;Spitta;2017;August;1;1;7.49;7.49;7.49;7.49
+9569;Spitta;2017;May;1;1;11.17;11.17;11.17;11.17
+9570;NRG Jay;2017;August;1;3;41.83;41.83;41.83;41.83
+9570;NRG Jay;2017;July;1;1;46.90;46.90;46.90;46.90
+9572;NRG Cole;2017;November;1;1;21.50;21.50;21.50;21.50
+9572;NRG Cole;2017;October;1;1;17.44;17.44;17.44;17.44
+9572;NRG Cole;2017;June;1;1;28.04;28.04;28.04;28.04
+9573;Slithraa;2017;October;2;2;15.00;15.86;15.86;16.73
+9574;Lloyd ZX;2017;November;1;1;28.00;28.00;28.00;28.00
+9574;Lloyd ZX;2017;October;1;1;29.37;29.37;29.37;29.37
+9574;Lloyd ZX;2017;August;1;1;35.00;35.00;35.00;35.00
+9574;Lloyd ZX;2017;July;1;1;35.99;35.99;35.99;35.99
+9579;Starter Set;2017;August;2;5;20.59;20.65;20.69;20.71
+9585;WeDo Resource Set;2017;November;1;3;28.79;28.79;28.79;28.79
+9585;WeDo Resource Set;2017;August;1;1;57.69;57.69;57.69;57.69
+9585;WeDo Resource Set;2017;June;1;1;46.05;46.05;46.05;46.05
+9590;NRG Zane;2017;November;1;1;23.11;23.11;23.11;23.11
+9590;NRG Zane;2017;October;1;1;23.38;23.38;23.38;23.38
+9591;Weapon Pack;2017;November;1;1;25.08;25.08;25.08;25.08
+9591;Weapon Pack;2017;June;1;1;38.89;38.89;38.89;38.89
+9674;Naboo Starfighter & Naboo;2017;November;3;5;5.99;8.97;8.88;11.50
+9674;Naboo Starfighter & Naboo;2017;October;6;7;4.88;10.36;9.57;14.99
+9674;Naboo Starfighter & Naboo;2017;September;4;5;4.99;7.75;7.20;11.17
+9674;Naboo Starfighter & Naboo;2017;August;7;16;4.80;10.48;10.21;14.72
+9674;Naboo Starfighter & Naboo;2017;July;3;3;5.40;5.97;5.97;6.50
+9674;Naboo Starfighter & Naboo;2017;June;4;4;6.00;9.23;9.23;14.97
+9674;Naboo Starfighter & Naboo;2017;May;3;3;7.75;10.09;10.09;14.51
+9675;Sebulba's Podracer & Tatooine;2017;November;4;4;9.95;14.66;14.66;25.00
+9675;Sebulba's Podracer & Tatooine;2017;October;7;8;6.88;10.82;10.32;17.02
+9675;Sebulba's Podracer & Tatooine;2017;September;4;6;7.49;9.86;9.57;12.95
+9675;Sebulba's Podracer & Tatooine;2017;August;4;4;8.99;10.86;10.86;12.93
+9675;Sebulba's Podracer & Tatooine;2017;July;3;3;7.50;11.72;11.72;15.77
+9675;Sebulba's Podracer & Tatooine;2017;June;2;6;7.77;7.77;7.77;7.77
+9675;Sebulba's Podracer & Tatooine;2017;May;4;4;7.00;10.73;10.73;16.75
+9676;TIE Interceptor & Death Star;2017;November;4;33;13.42;18.19;14.00;20.95
+9676;TIE Interceptor & Death Star;2017;October;5;6;18.88;22.79;22.14;27.00
+9676;TIE Interceptor & Death Star;2017;September;7;16;15.77;20.87;18.00;27.00
+9676;TIE Interceptor & Death Star;2017;August;1;1;20.00;20.00;20.00;20.00
+9676;TIE Interceptor & Death Star;2017;July;3;3;20.00;24.08;24.08;27.26
+9676;TIE Interceptor & Death Star;2017;June;3;5;18.00;20.78;19.67;26.34
+9676;TIE Interceptor & Death Star;2017;May;4;4;17.00;18.99;18.99;22.35
+9677;X-wing Starfighter & Yavin 4;2017;November;4;4;9.33;12.83;12.83;14.90
+9677;X-wing Starfighter & Yavin 4;2017;October;5;5;7.09;10.45;10.45;14.68
+9677;X-wing Starfighter & Yavin 4;2017;September;2;2;15.00;15.27;15.27;15.55
+9677;X-wing Starfighter & Yavin 4;2017;August;2;2;15.00;15.00;15.00;15.00
+9677;X-wing Starfighter & Yavin 4;2017;July;3;3;11.00;13.07;13.07;16.20
+9677;X-wing Starfighter & Yavin 4;2017;June;2;2;11.00;13.50;13.50;16.00
+9678;Twin-Pod Cloud Car & Bespin;2017;November;8;8;4.98;6.52;6.52;9.80
+9678;Twin-Pod Cloud Car & Bespin;2017;October;3;5;7.04;9.87;8.74;14.18
+9678;Twin-Pod Cloud Car & Bespin;2017;September;2;2;4.75;5.00;5.00;5.25
+9678;Twin-Pod Cloud Car & Bespin;2017;August;4;4;6.50;7.77;7.77;9.40
+9678;Twin-Pod Cloud Car & Bespin;2017;July;3;3;4.75;8.55;8.55;12.22
+9678;Twin-Pod Cloud Car & Bespin;2017;June;2;2;5.75;7.36;7.36;8.97
+9678;Twin-Pod Cloud Car & Bespin;2017;May;1;1;6.50;6.50;6.50;6.50
+9679;AT-ST & Endor;2017;November;5;6;6.00;11.58;11.77;16.33
+9679;AT-ST & Endor;2017;October;5;8;7.09;11.66;12.50;14.18
+9679;AT-ST & Endor;2017;September;4;4;10.00;11.74;11.74;14.94
+9679;AT-ST & Endor;2017;August;3;3;10.00;12.21;12.21;16.64
+9679;AT-ST & Endor;2017;July;5;5;10.00;11.47;11.47;14.00
+9679;AT-ST & Endor;2017;June;1;1;16.59;16.59;16.59;16.59
+9679;AT-ST & Endor;2017;May;1;1;10.95;10.95;10.95;10.95
+9689;Simple Machines Set;2017;September;3;7;53.86;55.69;56.22;59.09
+9689;Simple Machines Set;2017;July;1;1;57.78;57.78;57.78;57.78
+10223;Kingdoms Joust;2017;November;2;2;125.00;143.78;143.78;162.55
+10223;Kingdoms Joust;2017;October;4;4;139.99;151.08;151.08;158.25
+10223;Kingdoms Joust;2017;September;4;4;135.00;144.82;144.82;155.28
+10223;Kingdoms Joust;2017;August;9;11;122.88;142.47;143.43;176.15
+10223;Kingdoms Joust;2017;July;5;7;129.99;139.73;139.79;149.85
+10223;Kingdoms Joust;2017;June;7;7;115.00;134.73;134.73;155.64
+10223;Kingdoms Joust;2017;May;6;7;115.00;129.18;130.56;150.27
+10224;Town Hall;2017;November;1;1;454.50;454.50;454.50;454.50
+10224;Town Hall;2017;October;8;8;444.77;490.41;490.41;526.48
+10224;Town Hall;2017;September;6;6;465.00;489.66;489.66;499.98
+10224;Town Hall;2017;August;10;10;449.99;494.19;494.19;572.86
+10224;Town Hall;2017;July;4;6;446.71;476.54;475.82;500.00
+10224;Town Hall;2017;June;10;11;300.00;461.81;465.43;505.37
+10224;Town Hall;2017;May;1;1;403.40;403.40;403.40;403.40
+10224;Town Hall;2017;February;1;1;422.00;422.00;422.00;422.00
+10224;Town Hall;2016;December;1;1;350.00;350.00;350.00;350.00
+10225;R2-D2;2017;November;7;7;280.00;343.18;343.18;417.35
+10225;R2-D2;2017;October;12;12;280.00;331.02;331.02;395.82
+10225;R2-D2;2017;September;9;10;307.52;350.11;349.17;479.95
+10225;R2-D2;2017;August;2;2;318.99;336.74;336.74;354.49
+10225;R2-D2;2017;July;5;5;310.00;322.72;322.72;345.49
+10225;R2-D2;2017;June;4;9;311.59;337.36;323.04;347.28
+10225;R2-D2;2017;May;1;1;299.99;299.99;299.99;299.99
+10225;R2-D2;2017;January;1;1;200.00;200.00;200.00;200.00
+10226;Sopwith Camel;2017;November;7;7;129.99;139.38;139.38;146.11
+10226;Sopwith Camel;2017;October;11;13;120.00;134.52;132.29;154.99
+10226;Sopwith Camel;2017;September;6;7;120.00;133.27;133.00;144.00
+10226;Sopwith Camel;2017;August;6;11;96.82;125.68;120.99;157.34
+10226;Sopwith Camel;2017;July;4;5;134.46;137.08;136.60;143.99
+10226;Sopwith Camel;2017;June;14;18;113.36;129.16;127.34;169.17
+10226;Sopwith Camel;2017;May;5;5;122.98;129.99;129.99;144.00
+10227;B-Wing Starfighter;2017;November;5;10;290.00;331.73;311.55;399.78
+10227;B-Wing Starfighter;2017;October;8;8;279.99;320.50;320.50;425.31
+10227;B-Wing Starfighter;2017;September;13;13;245.00;306.51;306.51;394.64
+10227;B-Wing Starfighter;2017;August;3;3;294.95;297.98;297.98;299.99
+10227;B-Wing Starfighter;2017;July;3;3;300.00;324.09;324.09;363.52
+10227;B-Wing Starfighter;2017;June;3;4;323.72;348.29;342.15;371.16
+10227;B-Wing Starfighter;2017;May;5;5;240.00;302.99;302.99;368.79
+10228;Haunted House;2017;November;8;8;323.70;360.17;360.17;425.00
+10228;Haunted House;2017;October;17;19;320.00;359.73;362.55;422.96
+10228;Haunted House;2017;September;9;9;300.00;357.12;357.12;400.59
+10228;Haunted House;2017;August;9;10;332.00;359.21;359.17;411.46
+10228;Haunted House;2017;July;8;10;302.24;344.91;341.93;409.33
+10228;Haunted House;2017;June;10;10;282.03;329.62;329.62;374.69
+10228;Haunted House;2017;May;3;3;325.00;362.81;362.81;392.14
+10228;Haunted House;2017;March;1;1;260.00;260.00;260.00;260.00
+10228;Haunted House;2017;January;1;1;314.69;314.69;314.69;314.69
+10228;Haunted House;2016;December;1;1;315.74;315.74;315.74;315.74
+10229;Winter Village Cottage;2017;November;18;20;183.37;212.14;214.11;239.00
+10229;Winter Village Cottage;2017;October;29;31;30.00;203.60;202.81;263.76
+10229;Winter Village Cottage;2017;September;17;18;150.00;209.59;209.00;256.50
+10229;Winter Village Cottage;2017;August;9;9;199.00;210.78;210.78;226.95
+10229;Winter Village Cottage;2017;July;8;8;164.99;189.46;189.46;223.76
+10229;Winter Village Cottage;2017;June;5;8;166.67;204.29;190.18;246.42
+10229;Winter Village Cottage;2017;May;3;3;183.18;184.39;184.39;185.00
+10230;Mini Modulars;2017;November;1;1;145.95;145.95;145.95;145.95
+10230;Mini Modulars;2017;October;1;1;149.99;149.99;149.99;149.99
+10230;Mini Modulars;2017;September;3;3;142.95;153.04;153.04;165.74
+10230;Mini Modulars;2017;August;1;1;141.13;141.13;141.13;141.13
+10230;Mini Modulars;2017;July;5;6;139.95;155.36;155.72;199.39
+10230;Mini Modulars;2017;June;4;4;120.00;133.10;133.10;139.75
+10230;Mini Modulars;2017;May;1;1;139.98;139.98;139.98;139.98
+10531;Mickey Mouse and Friends;2017;October;1;1;68.52;68.52;68.52;68.52
+20204;Creature Designer;2017;November;1;1;18.00;18.00;18.00;18.00
+20204;Creature Designer;2017;September;1;1;40.78;40.78;40.78;40.78
+20204;Creature Designer;2017;July;2;2;29.99;37.27;37.27;44.55
+20205;Auto Designer;2017;November;1;1;18.00;18.00;18.00;18.00
+20205;Auto Designer;2017;July;1;1;27.99;27.99;27.99;27.99
+20206;The Lost Village;2017;November;1;1;22.00;22.00;22.00;22.00
+20207;The Forbidden Bridge;2017;November;1;1;35.00;35.00;35.00;35.00
+20208;The Dark Lair;2017;November;1;1;24.50;24.50;24.50;24.50
+21012;Sydney Opera House;2017;October;2;2;69.56;97.28;97.28;125.00
+21012;Sydney Opera House;2017;September;3;3;79.99;83.33;83.33;85.00
+21012;Sydney Opera House;2017;August;5;7;70.00;89.16;86.51;117.06
+21012;Sydney Opera House;2017;July;3;3;70.00;85.89;85.89;114.68
+21012;Sydney Opera House;2017;June;2;2;68.00;72.95;72.95;77.90
+21013;Big Ben;2017;November;8;20;29.48;32.91;32.77;40.78
+21013;Big Ben;2017;October;3;3;30.15;35.19;35.19;39.94
+21013;Big Ben;2017;September;2;2;28.67;35.21;35.21;41.75
+21013;Big Ben;2017;August;4;15;31.78;34.32;33.72;37.00
+21013;Big Ben;2017;July;3;3;34.00;36.33;36.33;39.99
+21013;Big Ben;2017;June;5;9;28.00;34.66;35.50;40.00
+21014;Villa Savoye;2017;November;6;6;75.00;107.06;107.06;136.89
+21014;Villa Savoye;2017;October;2;2;80.00;85.00;85.00;89.99
+21014;Villa Savoye;2017;September;4;4;90.96;101.77;101.77;123.07
+21014;Villa Savoye;2017;August;2;2;93.62;96.31;96.31;99.00
+21014;Villa Savoye;2017;July;6;6;84.99;123.54;123.54;161.83
+21014;Villa Savoye;2017;June;3;3;83.99;95.44;95.44;112.32
+21014;Villa Savoye;2017;May;1;1;127.77;127.77;127.77;127.77
+21016;Sungnyemun;2017;October;2;2;269.99;329.95;329.95;389.91
+21016;Sungnyemun;2017;August;1;2;253.18;253.18;253.18;253.18
+21016;Sungnyemun;2017;June;1;1;229.99;229.99;229.99;229.99
+21016;Sungnyemun;2017;May;2;2;332.20;342.75;342.75;353.31
+21101;Hayabusa;2017;November;2;2;200.00;206.68;206.68;213.37
+21101;Hayabusa;2017;October;4;4;167.46;171.58;171.58;174.99
+21101;Hayabusa;2017;September;4;5;139.99;166.75;169.67;195.70
+21101;Hayabusa;2017;August;6;6;82.95;131.54;131.54;179.52
+21101;Hayabusa;2017;July;4;4;182.42;203.49;203.49;232.57
+21101;Hayabusa;2017;June;1;1;160.00;160.00;160.00;160.00
+21101;Hayabusa;2017;May;1;1;223.56;223.56;223.56;223.56
+21102;Minecraft Micro World: The Forest;2017;November;2;2;35.00;36.61;36.61;38.23
+21102;Minecraft Micro World: The Forest;2017;October;2;2;28.34;33.07;33.07;37.80
+21102;Minecraft Micro World: The Forest;2017;September;7;8;23.50;33.28;35.34;49.79
+21102;Minecraft Micro World: The Forest;2017;August;3;3;28.85;31.48;31.48;34.33
+21102;Minecraft Micro World: The Forest;2017;July;1;1;45.69;45.69;45.69;45.69
+21102;Minecraft Micro World: The Forest;2017;June;5;8;29.95;42.96;41.07;54.90
+21102;Minecraft Micro World: The Forest;2017;May;2;2;39.00;40.11;40.11;41.23
+21201;Life Of George 2;2017;August;1;1;6.36;6.36;6.36;6.36
+21201;Life Of George 2;2017;July;1;1;9.59;9.59;9.59;9.59
+30017;Police Boat;2017;November;4;13;2.32;2.85;2.53;3.28
+30017;Police Boat;2017;October;6;10;2.37;4.13;4.10;7.80
+30017;Police Boat;2017;September;4;16;3.58;3.99;3.87;4.90
+30017;Police Boat;2017;August;5;22;2.82;3.60;3.21;4.99
+30017;Police Boat;2017;July;7;9;2.38;4.05;3.78;9.15
+30017;Police Boat;2017;June;5;11;2.78;3.57;3.14;5.69
+30017;Police Boat;2017;May;1;2;3.62;3.62;3.62;3.62
+30018;Police Microlight;2017;November;3;5;3.20;3.57;3.44;4.22
+30018;Police Microlight;2017;October;4;5;2.38;2.96;3.07;3.52
+30018;Police Microlight;2017;September;3;4;4.16;4.95;5.21;6.00
+30018;Police Microlight;2017;August;2;6;2.95;3.61;3.17;4.27
+30018;Police Microlight;2017;July;2;2;2.33;2.98;2.98;3.62
+30018;Police Microlight;2017;June;2;11;2.71;2.96;3.16;3.21
+30018;Police Microlight;2017;May;3;5;3.35;6.75;5.88;12.30
+30019;Fire Helicopter;2017;November;1;1;12.99;12.99;12.99;12.99
+30019;Fire Helicopter;2017;September;2;2;4.70;5.17;5.17;5.64
+30019;Fire Helicopter;2017;July;2;2;5.75;6.15;6.15;6.56
+30019;Fire Helicopter;2017;June;1;1;3.34;3.34;3.34;3.34
+30056;Star Destroyer;2017;November;2;6;3.48;3.74;3.57;4.00
+30056;Star Destroyer;2017;October;3;29;4.72;5.13;4.93;5.59
+30056;Star Destroyer;2017;September;11;15;3.93;5.59;5.41;8.30
+30056;Star Destroyer;2017;August;10;10;3.75;6.05;6.05;15.60
+30056;Star Destroyer;2017;July;7;8;3.50;4.19;4.16;5.68
+30056;Star Destroyer;2017;June;9;159;4.01;4.64;4.11;5.69
+30056;Star Destroyer;2017;May;2;2;5.50;6.10;6.10;6.70
+30057;Anakin's Pod Racer;2017;October;2;16;6.39;9.19;11.64;11.99
+30057;Anakin's Pod Racer;2017;September;3;3;6.00;8.03;8.03;11.50
+30057;Anakin's Pod Racer;2017;August;5;7;7.71;9.60;9.06;12.98
+30057;Anakin's Pod Racer;2017;June;2;10;7.41;7.70;7.47;7.99
+30058;STAP;2017;November;2;6;6.26;7.22;6.58;8.18
+30058;STAP;2017;October;6;10;6.29;7.97;8.68;10.59
+30058;STAP;2017;September;3;4;7.40;9.06;8.65;11.79
+30058;STAP;2017;August;5;6;6.42;7.86;7.93;10.29
+30058;STAP;2017;July;2;2;9.56;9.98;9.98;10.41
+30058;STAP;2017;June;3;4;6.03;7.41;7.06;9.38
+30058;STAP;2017;May;1;1;10.37;10.37;10.37;10.37
+30059;MTT;2017;November;1;1;6.29;6.29;6.29;6.29
+30059;MTT;2017;October;4;15;5.00;6.59;6.00;8.47
+30059;MTT;2017;September;1;2;6.50;6.50;6.50;6.50
+30059;MTT;2017;August;4;23;4.25;7.87;7.15;11.90
+30059;MTT;2017;July;3;4;4.25;7.45;6.65;9.81
+30059;MTT;2017;June;4;6;6.65;7.50;7.52;8.23
+30059;MTT;2017;May;4;7;4.50;6.32;6.77;8.29
+30085;Jumping Snakes;2017;November;3;3;4.90;6.87;6.87;9.89
+30085;Jumping Snakes;2017;October;3;3;3.96;4.87;4.87;5.91
+30085;Jumping Snakes;2017;September;4;5;4.05;5.32;5.07;6.93
+30085;Jumping Snakes;2017;August;10;50;3.62;4.86;4.66;8.27
+30085;Jumping Snakes;2017;July;6;13;3.72;4.00;3.87;5.17
+30085;Jumping Snakes;2017;June;6;19;3.55;4.81;5.97;6.73
+30085;Jumping Snakes;2017;May;2;3;3.25;3.45;3.51;3.64
+30086;Hidden Sword;2017;November;6;39;4.70;6.09;5.99;7.66
+30086;Hidden Sword;2017;October;5;27;4.71;5.67;5.65;7.88
+30086;Hidden Sword;2017;September;5;71;4.40;5.71;6.51;6.75
+30086;Hidden Sword;2017;August;6;9;4.85;6.34;5.94;10.17
+30086;Hidden Sword;2017;July;1;1;6.18;6.18;6.18;6.18
+30086;Hidden Sword;2017;June;4;39;5.07;6.38;6.64;7.86
+30086;Hidden Sword;2017;May;1;1;3.90;3.90;3.90;3.90
+30087;Car;2017;October;1;1;4.75;4.75;4.75;4.75
+30087;Car;2017;September;2;2;4.26;5.37;5.37;6.48
+30087;Car;2017;August;1;1;4.40;4.40;4.40;4.40
+30087;Car;2017;June;2;2;3.79;5.08;5.08;6.36
+30087;Car;2017;May;2;8;3.90;4.42;4.82;4.95
+30088;Rattla;2017;November;3;28;3.99;4.21;4.01;4.66
+30088;Rattla;2017;October;1;1;3.99;3.99;3.99;3.99
+30088;Rattla;2017;September;3;19;3.99;3.99;3.99;3.99
+30088;Rattla;2017;August;2;31;3.99;3.99;3.99;3.99
+30088;Rattla;2017;July;1;1;5.95;5.95;5.95;5.95
+30088;Rattla;2017;June;2;2;3.00;4.48;4.48;5.95
+30100;Beach;2017;November;1;3;6.79;6.79;6.79;6.79
+30100;Beach;2017;September;2;9;5.73;6.17;5.82;6.62
+30100;Beach;2017;August;1;1;6.82;6.82;6.82;6.82
+30100;Beach;2017;June;1;2;6.30;6.30;6.30;6.30
+30101;Skateboarder;2017;September;1;13;4.77;4.77;4.77;4.77
+30101;Skateboarder;2017;August;2;2;4.72;4.73;4.73;4.73
+30101;Skateboarder;2017;July;1;1;6.47;6.47;6.47;6.47
+30101;Skateboarder;2017;June;1;1;3.88;3.88;3.88;3.88
+30101;Skateboarder;2017;May;1;1;4.36;4.36;4.36;4.36
+30102;Desk;2017;November;2;2;3.99;3.99;3.99;3.99
+30102;Desk;2017;October;4;4;3.79;4.91;4.91;6.00
+30102;Desk;2017;September;2;2;3.50;5.25;5.25;7.00
+30102;Desk;2017;August;5;29;4.01;4.58;4.11;5.06
+30102;Desk;2017;July;2;2;4.00;4.27;4.27;4.53
+30102;Desk;2017;June;2;4;4.52;4.75;4.87;4.99
+30102;Desk;2017;May;1;1;5.51;5.51;5.51;5.51
+30103;Car;2017;November;1;200;3.99;3.99;3.99;3.99
+30103;Car;2017;September;1;12;5.01;5.01;5.01;5.01
+30103;Car;2017;August;2;2;5.30;5.78;5.78;6.25
+30103;Car;2017;June;1;1;4.52;4.52;4.52;4.52
+30103;Car;2017;May;1;1;11.03;11.03;11.03;11.03
+30105;Mailbox;2017;November;5;68;2.50;3.27;3.04;4.63
+30105;Mailbox;2017;October;3;9;4.63;5.15;5.46;5.81
+30105;Mailbox;2017;September;6;36;3.20;4.18;3.67;6.00
+30105;Mailbox;2017;August;6;58;2.99;3.72;3.51;5.00
+30105;Mailbox;2017;July;5;76;3.23;3.46;3.52;3.55
+30105;Mailbox;2017;June;5;10;3.34;3.90;3.63;4.66
+30105;Mailbox;2017;May;1;2;5.51;5.51;5.51;5.51
+30150;Racing Car;2017;November;1;1;4.58;4.58;4.58;4.58
+30150;Racing Car;2017;October;3;170;2.96;4.19;2.98;6.31
+30150;Racing Car;2017;September;1;1;3.89;3.89;3.89;3.89
+30150;Racing Car;2017;August;3;3;2.82;3.50;3.50;4.47
+30150;Racing Car;2017;July;2;2;2.85;3.52;3.52;4.19
+30150;Racing Car;2017;June;2;2;5.20;5.60;5.60;5.99
+30151;Mining Dozer;2017;October;1;1;5.99;5.99;5.99;5.99
+30151;Mining Dozer;2017;September;4;7;5.49;6.11;6.05;7.00
+30151;Mining Dozer;2017;August;2;2;4.48;5.74;5.74;6.99
+30151;Mining Dozer;2017;July;2;2;3.50;4.60;4.60;5.71
+30151;Mining Dozer;2017;June;3;3;4.50;5.51;5.51;7.03
+30151;Mining Dozer;2017;May;1;1;6.01;6.01;6.01;6.01
+30152;Mining Quad;2017;November;1;1;3.30;3.30;3.30;3.30
+30152;Mining Quad;2017;October;4;4;3.28;4.03;4.03;5.31
+30152;Mining Quad;2017;September;6;17;3.10;4.53;4.45;6.77
+30152;Mining Quad;2017;August;1;3;3.57;3.57;3.57;3.57
+30152;Mining Quad;2017;July;4;4;3.70;4.87;4.87;7.60
+30152;Mining Quad;2017;June;6;6;3.64;5.93;5.93;7.03
+30152;Mining Quad;2017;May;1;1;5.73;5.73;5.73;5.73
+30160;Batman Jetski;2017;November;1;1;11.21;11.21;11.21;11.21
+30160;Batman Jetski;2017;October;5;12;6.95;9.58;8.05;11.99
+30160;Batman Jetski;2017;September;9;15;6.00;9.54;9.51;14.94
+30160;Batman Jetski;2017;August;2;4;7.50;8.90;9.60;10.29
+30160;Batman Jetski;2017;July;7;7;8.10;10.74;10.74;19.01
+30160;Batman Jetski;2017;June;3;4;5.50;7.67;8.13;9.51
+30160;Batman Jetski;2017;May;2;2;9.00;9.34;9.34;9.68
+30161;Batmobile;2017;November;3;8;6.85;7.75;7.44;8.52
+30161;Batmobile;2017;October;2;2;6.80;8.69;8.69;10.58
+30161;Batmobile;2017;September;3;6;6.80;6.93;6.93;7.00
+30161;Batmobile;2017;August;8;17;6.82;7.61;7.23;9.75
+30161;Batmobile;2017;July;7;12;5.70;8.71;8.65;15.21
+30161;Batmobile;2017;June;6;16;6.73;7.16;6.91;8.39
+30161;Batmobile;2017;May;3;12;6.00;7.10;7.51;7.64
+30162;Quinjet;2017;November;6;75;2.96;4.95;3.15;9.99
+30162;Quinjet;2017;October;4;11;2.75;3.65;3.24;4.62
+30162;Quinjet;2017;September;10;65;2.36;3.53;3.17;6.02
+30162;Quinjet;2017;August;9;14;2.57;3.38;3.17;5.75
+30162;Quinjet;2017;July;5;39;1.93;3.62;3.25;5.75
+30162;Quinjet;2017;June;7;27;2.45;2.89;2.88;3.31
+30162;Quinjet;2017;May;5;21;2.60;3.46;2.95;5.50
+30163;Thor and the Cosmic Cube;2017;November;3;11;6.83;8.06;8.89;9.20
+30163;Thor and the Cosmic Cube;2017;October;9;27;5.82;8.48;7.40;16.40
+30163;Thor and the Cosmic Cube;2017;September;9;30;4.72;7.67;6.41;12.44
+30163;Thor and the Cosmic Cube;2017;August;12;41;4.00;6.96;7.16;10.99
+30163;Thor and the Cosmic Cube;2017;July;8;8;4.50;8.72;8.72;15.00
+30163;Thor and the Cosmic Cube;2017;June;7;7;4.50;7.57;7.57;9.99
+30163;Thor and the Cosmic Cube;2017;May;5;59;5.69;6.74;5.86;10.00
+30164;Lex Luthor;2017;November;1;1;15.69;15.69;15.69;15.69
+30164;Lex Luthor;2017;October;2;2;19.95;24.02;24.02;28.09
+30164;Lex Luthor;2017;August;3;3;18.17;19.54;19.54;22.00
+30164;Lex Luthor;2017;July;3;3;15.73;23.90;23.90;30.98
+30164;Lex Luthor;2017;June;1;1;18.03;18.03;18.03;18.03
+30164;Lex Luthor;2017;May;1;1;23.35;23.35;23.35;23.35
+30165;Hawkeye with equipment;2017;November;8;86;3.87;4.76;4.17;7.59
+30165;Hawkeye with equipment;2017;October;11;332;3.52;5.91;4.06;17.48
+30165;Hawkeye with equipment;2017;September;11;62;4.61;5.81;4.83;7.75
+30165;Hawkeye with equipment;2017;August;6;55;3.88;4.15;3.95;4.47
+30165;Hawkeye with equipment;2017;July;18;47;3.84;4.98;4.36;9.75
+30165;Hawkeye with equipment;2017;June;15;32;3.77;5.58;4.67;11.29
+30165;Hawkeye with equipment;2017;May;4;9;3.20;4.66;5.00;7.37
+30180;Aircraft;2017;November;1;10;3.76;3.76;3.76;3.76
+30180;Aircraft;2017;October;1;1;3.85;3.85;3.85;3.85
+30181;Helicopter;2017;November;1;1;5.99;5.99;5.99;5.99
+30181;Helicopter;2017;October;1;1;4.49;4.49;4.49;4.49
+30181;Helicopter;2017;September;1;8;2.50;2.50;2.50;2.50
+30181;Helicopter;2017;August;2;2;2.49;2.50;2.50;2.50
+30181;Helicopter;2017;July;1;1;4.28;4.28;4.28;4.28
+30181;Helicopter;2017;June;1;2;4.99;4.99;4.99;4.99
+30181;Helicopter;2017;May;1;1;3.00;3.00;3.00;3.00
+30182;Santa;2017;October;2;14;10.66;10.79;10.69;10.91
+30182;Santa;2017;July;2;20;10.65;10.65;10.65;10.65
+30190;Ferrari 150 Italia;2017;November;1;1;5.31;5.31;5.31;5.31
+30190;Ferrari 150 Italia;2017;October;2;2;2.77;5.89;5.89;9.00
+30190;Ferrari 150 Italia;2017;September;8;13;0.00;4.34;4.34;5.96
+30190;Ferrari 150 Italia;2017;August;4;5;2.97;4.16;4.12;5.87
+30190;Ferrari 150 Italia;2017;July;4;6;3.79;3.87;3.88;3.92
+30190;Ferrari 150 Italia;2017;June;5;8;3.81;5.80;5.39;11.15
+30190;Ferrari 150 Italia;2017;May;3;5;2.60;5.58;5.80;8.00
+30191;Scuderia Ferrari Truck;2017;October;2;2;2.77;5.89;5.89;9.00
+30191;Scuderia Ferrari Truck;2017;September;5;5;2.53;16.06;16.06;57.92
+30191;Scuderia Ferrari Truck;2017;August;2;2;2.97;3.40;3.40;3.84
+30191;Scuderia Ferrari Truck;2017;July;3;9;2.50;4.88;5.51;6.80
+30191;Scuderia Ferrari Truck;2017;June;1;2;6.80;6.80;6.80;6.80
+30191;Scuderia Ferrari Truck;2017;May;3;3;2.60;4.53;4.53;7.81
+30192;F40;2017;November;1;1;5.28;5.28;5.28;5.28
+30192;F40;2017;October;3;4;2.77;7.60;8.95;12.99
+30192;F40;2017;September;5;5;0.00;4.15;4.15;5.96
+30192;F40;2017;August;2;2;2.97;5.11;5.11;7.26
+30192;F40;2017;July;2;3;4.18;4.46;4.36;4.74
+30192;F40;2017;June;2;3;5.14;5.78;6.00;6.43
+30192;F40;2017;May;1;1;11.06;11.06;11.06;11.06
+30193;250 GT Berlinetta;2017;November;3;3;2.78;3.87;3.87;4.66
+30193;250 GT Berlinetta;2017;October;2;2;5.49;5.98;5.98;6.48
+30193;250 GT Berlinetta;2017;September;9;16;0.00;4.90;4.53;8.96
+30193;250 GT Berlinetta;2017;August;5;6;2.97;6.71;6.34;9.73
+30193;250 GT Berlinetta;2017;July;3;5;3.20;5.08;5.77;6.80
+30193;250 GT Berlinetta;2017;June;3;4;6.80;8.96;8.42;11.15
+30193;250 GT Berlinetta;2017;May;2;2;2.60;5.05;5.05;7.50
+30194;458 Italia;2017;October;1;1;7.05;7.05;7.05;7.05
+30194;458 Italia;2017;September;7;8;0.00;5.90;5.99;8.96
+30194;458 Italia;2017;August;1;2;4.42;4.42;4.42;4.42
+30194;458 Italia;2017;July;3;6;5.00;5.63;5.87;6.43
+30194;458 Italia;2017;June;3;4;5.62;7.73;7.41;11.15
+30194;458 Italia;2017;May;2;2;2.60;4.10;4.10;5.61
+30195;FXX;2017;November;1;9;7.03;7.03;7.03;7.03
+30195;FXX;2017;October;2;2;2.77;3.78;3.78;4.78
+30195;FXX;2017;September;5;5;0.00;4.79;4.79;7.87
+30195;FXX;2017;August;2;2;2.97;3.62;3.62;4.27
+30195;FXX;2017;July;1;1;4.51;4.51;4.51;4.51
+30195;FXX;2017;June;3;3;6.39;8.38;8.38;11.15
+30195;FXX;2017;May;1;1;5.61;5.61;5.61;5.61
+30196;Ferrari pit crew;2017;November;1;2;6.54;6.54;6.54;6.54
+30196;Ferrari pit crew;2017;October;1;1;8.08;8.08;8.08;8.08
+30196;Ferrari pit crew;2017;September;6;8;0.00;10.51;10.61;15.93
+30196;Ferrari pit crew;2017;August;2;5;6.59;6.89;6.71;7.20
+30196;Ferrari pit crew;2017;July;3;3;6.24;7.65;7.65;10.19
+30196;Ferrari pit crew;2017;June;4;4;6.34;6.43;6.43;6.68
+30196;Ferrari pit crew;2017;May;2;3;6.37;6.42;6.44;6.48
+30200;Zombie chauffeur coffin car;2017;November;1;6;5.34;5.34;5.34;5.34
+30200;Zombie chauffeur coffin car;2017;October;13;43;4.29;6.04;5.71;9.99
+30200;Zombie chauffeur coffin car;2017;September;7;39;4.05;5.81;4.71;9.75
+30200;Zombie chauffeur coffin car;2017;August;5;9;4.96;7.37;6.56;9.99
+30200;Zombie chauffeur coffin car;2017;July;8;16;4.25;5.35;5.14;9.59
+30200;Zombie chauffeur coffin car;2017;June;10;89;4.00;5.74;5.16;9.95
+30200;Zombie chauffeur coffin car;2017;May;1;10;5.85;5.85;5.85;5.85
+30201;Ghost;2017;November;3;3;14.03;15.39;15.39;18.00
+30201;Ghost;2017;October;8;59;8.00;12.45;11.70;14.11
+30201;Ghost;2017;September;8;9;12.50;15.31;15.07;23.20
+30201;Ghost;2017;August;7;7;12.95;15.98;15.98;19.95
+30201;Ghost;2017;July;4;5;12.47;13.99;14.18;14.95
+30201;Ghost;2017;June;2;2;9.40;9.40;9.40;9.40
