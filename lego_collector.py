@@ -22,7 +22,7 @@ def parse_infobox(lego_id, variant):
     the dd's are collected in to a list. When a new dt is met, the previous
     dt:  [dd's] is combination is stored. Returns the data as dictionary.'''
     page = lh.parse(urllib.request.urlopen(
-        'https://brickset.com/sets/' + '{}-{}'.format(lego_id, variant)))
+        'https://brickset.com/sets/{}-{}'.format(lego_id, variant)))
     el_list = page.xpath('//dl[dt="Set number"]')[0]
     infobox = dict()
     key = ''
@@ -58,13 +58,14 @@ def parse_price_guide(lego_id, variant):
     {month: [stats]}.'''
 
     page= lh.parse(urllib.request.urlopen(
-        'https://www.bricklink.com/v2/catalog/catalogitem_pgtab.page?S='
-        + '{}-{}'.format(lego_id, variant)
-        + '&st=2&gm=1&gc=0&ei=0&prec=1&showflag=0&showbulk=0&currency=1'))
+        'https://www.bricklink.com/v2/catalog/catalogitem_pgtab.page?S={}-{}'
+        '&st=2&gm=1&gc=0&ei=0&prec=1&showflag=0&showbulk=0'
+        '&currency=1'.format(lego_id, variant)))
     pg_table = page.xpath('//table[@class="pcipgInnerTable"]')[0]
     # Splits the string by months
     pat = re.compile(
-        '((?:January|February|March|April|May|June|July|August|September|October|November|December) (?:[0-9]{4}))')
+        '((?:January|February|March|April|May|June|July'
+        '|August|September|October|November|December) (?:[0-9]{4}))')
     split_text = re.split(pat, re.sub('\s+', ' ', pg_table.text_content()))
     month_label_positions = [i for i, v in enumerate(split_text)
                              if re.match(pat, v)]
@@ -73,7 +74,7 @@ def parse_price_guide(lego_id, variant):
         # The summary stats are in the form:
         # (Field Name: (USD)? Number)
         pat = re.compile(
-            '(?:([\sa-zA-Z]+):(?:[A-Z]+\s\$)?([.0-9]+)\s?)')
+            '(?:([\sa-zA-Z]+):(?:[A-Z]+\s\$)?([.,0-9]+)\s?)')
         matches = list(filter(None, re.split(pat, fields_text)))
         return dict(zip(matches[0::2], matches[1::2]))
 
@@ -89,8 +90,8 @@ def parse_price_guide(lego_id, variant):
     return monthly_data
 
 
-with open('sets_2012_info.csv', 'w', newline='') as info_csv, \
-     open('sets_2012_prices.csv', 'w', newline='') as prices_csv:
+with open('sets_2007_info.csv', 'w', newline='') as info_csv, \
+     open('sets_2007_prices.csv', 'w', newline='') as prices_csv:
 
     info_fields = ['Set number', 'Name', 'Set type', 'Theme group', 'Theme',
                    'Subtheme', 'Year released', 'Tags', 'Dimensions', 'Weight',
@@ -106,15 +107,19 @@ with open('sets_2012_info.csv', 'w', newline='') as info_csv, \
     prices_csv_writer = csv.DictWriter(prices_csv, fieldnames=prices_fields, delimiter=';')
     prices_csv_writer.writeheader()
 
-    sets_2012 = get_sets_from_year('sets_2012.csv')
+    sets_2007 = get_sets_from_year('sets_2007.csv')
     sets_not_found = []
 
-    for (lego_id, variant) in sets_2012:
+    for (lego_id, variant) in sets_2007:
+    # for (lego_id, variant) in [(5378,1)]:
         print('Scraping LEGO set: {}-{}'.format(lego_id, variant))
         try:
             # Retrieve the relevant parts of HTML
             infobox = parse_infobox(lego_id, variant)
-            price_guide = parse_price_guide(lego_id, variant)
+            if int(infobox['Pieces']) >= 500:
+                price_guide = parse_price_guide(lego_id, variant)
+            else:
+                continue
         except IndexError:
             # Some sets have mismatched set ids on bricklink and brickset
             # Some sets are also not found if the # of requests exceeds the
